@@ -1,0 +1,270 @@
+{
+  "data": {
+    "data": {
+      "id": "2186",
+      "type": "event",
+      "attributes": {
+        "name": "Arts \u0026 crafts \u0026 tacos 🌮 with Asa",
+        "maximum_children": 2,
+        "child_age_minimum": 2,
+        "child_age_maximum": 11,
+        "has_pet": false,
+        "activity_names": [
+          "arts \u0026 crafts"
+        ],
+        "foods": [
+          "tacos 🌮"
+        ],
+        "house_rules": null,
+        "pet_description": null,
+        "host_id": 1184,
+        "host_avatar": null,
+        "host_first_name": "Asa",
+        "host_verified": false,
+        "host_fuzzy_latitude": "42.2621022893375",
+        "host_fuzzy_longitude": "-71.7869041541646",
+        "host_locality": "Worcester",
+        "host_sublocality": null,
+        "host_neighborhood": "Shrewsbury Street",
+        "host_admin_area_level_1": "Massachusetts",
+        "host_admin_area_level_2": "Worcester County",
+        "host_images": [],
+        "host_languages": [],
+        "host_job_position": null,
+        "host_employer": null,
+        "host_highest_education": null,
+        "host_school": null,
+        "host_facebook_uid": "2345507718810193",
+        "host_instagram_user": null,
+        "host_twitter_user": null,
+        "host_linkedin_user": null,
+        "host_created_at": "2019-02-20T19:50:54.060Z",
+        "host_child_ages": [
+          10,
+          2
+        ],
+        "host_profile_blurb": null,
+        "starts_at": "2019-03-23T18:00:00-04:00",
+        "ends_at": "2019-03-23T21:00:00-04:00",
+        "participants_count": 2,
+        "full": true
+      },
+      "relationships": {
+        "host": {
+          "data": {
+            "id": "1184",
+            "type": "user"
+          }
+        },
+        "event_hosts": {
+          "data": []
+        },
+        "participants": {
+          "data": [
+            {
+              "id": "227",
+              "type": "participant"
+            },
+            {
+              "id": "228",
+              "type": "participant"
+            }
+          ]
+        }
+      }
+    },
+    "included": [
+      {
+        "id": "227",
+        "type": "participant",
+        "attributes": {
+          "user_id": 1230,
+          "user_avatar": null,
+          "user_first_name": "Ari",
+          "user_verified": false,
+          "user_fuzzy_latitude": "42.2798583744957",
+          "user_fuzzy_longitude": "-71.7923605922667",
+          "user_locality": "Worcester",
+          "user_sublocality": null,
+          "user_neighborhood": "Biotech Park Area",
+          "user_admin_area_level_1": "Massachusetts",
+          "user_admin_area_level_2": "Worcester County",
+          "user_images": [
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865925/avatars/ari_photo_sxw70e.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865941/avatars/Image_from_iOS_u7dxcz.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865985/avatars/2013-02-09_13.56.09_zzrtjv.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865992/avatars/2012-10-19_13.57.39_pzi6hl.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865999/avatars/2012-06-21_14.44.23_tywfj9.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866006/avatars/2013-01-26_09.29.01_s1va6c.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866012/avatars/2012-11-19_21.47.23_lhpttt.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866024/avatars/2019-01-27_09.18.43_v4c1ui.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866035/avatars/2013-09-28_21.23.05_tsl6be.png"
+          ],
+          "user_languages": [],
+          "user_job_position": "Middle School teacher",
+          "user_employer": "City of Worcester",
+          "user_highest_education": null,
+          "user_school": null,
+          "user_facebook_uid": "10161426358710224",
+          "user_instagram_user": null,
+          "user_twitter_user": null,
+          "user_linkedin_user": null,
+          "user_created_at": "2019-02-22T18:56:31.314Z",
+          "user_child_ages": [
+            3
+          ],
+          "user_profile_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.\r\nRoccaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nElit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.",
+          "event_id": 2186
+        },
+        "relationships": {
+          "participant_children": {
+            "data": [
+              {
+                "id": "208",
+                "type": "participant_child"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "228",
+        "type": "participant",
+        "attributes": {
+          "user_id": 1228,
+          "user_avatar": "https://res.cloudinary.com/cottageclass2/image/upload/v1550852508/avatars/ari_photo_qie6qh.png",
+          "user_first_name": "ari",
+          "user_verified": false,
+          "user_fuzzy_latitude": "42.2804470048222",
+          "user_fuzzy_longitude": "-71.7921261738453",
+          "user_locality": "Worcester",
+          "user_sublocality": null,
+          "user_neighborhood": "Biotech Park Area",
+          "user_admin_area_level_1": "Massachusetts",
+          "user_admin_area_level_2": "Worcester County",
+          "user_images": [],
+          "user_languages": [],
+          "user_job_position": null,
+          "user_employer": null,
+          "user_highest_education": null,
+          "user_school": null,
+          "user_facebook_uid": null,
+          "user_instagram_user": null,
+          "user_twitter_user": null,
+          "user_linkedin_user": null,
+          "user_created_at": "2019-02-22T16:21:51.663Z",
+          "user_child_ages": [
+            2
+          ],
+          "user_profile_blurb": null,
+          "event_id": 2186
+        },
+        "relationships": {
+          "participant_children": {
+            "data": [
+              {
+                "id": "209",
+                "type": "participant_child"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "208",
+        "type": "participant_child",
+        "attributes": {
+          "child_id": 768,
+          "child_age": 3
+        }
+      },
+      {
+        "id": "209",
+        "type": "participant_child",
+        "attributes": {
+          "child_id": 766,
+          "child_age": 2
+        }
+      },
+      {
+        "id": "1184",
+        "type": "user",
+        "attributes": {
+          "id": 1184,
+          "avatar": null,
+          "first_name": "Asa",
+          "verified": false,
+          "fuzzy_latitude": "42.2621022893375",
+          "fuzzy_longitude": "-71.7869041541646",
+          "locality": "Worcester",
+          "sublocality": null,
+          "neighborhood": "Shrewsbury Street",
+          "admin_area_level_1": "Massachusetts",
+          "admin_area_level_2": "Worcester County",
+          "images": [],
+          "languages": [],
+          "job_position": null,
+          "employer": null,
+          "highest_education": null,
+          "school": null,
+          "facebook_uid": "2345507718810193",
+          "instagram_user": null,
+          "twitter_user": null,
+          "linkedin_user": null,
+          "created_at": "2019-02-20T19:50:54.060Z",
+          "child_ages": [
+            10,
+            2
+          ],
+          "profile_blurb": null
+        },
+        "relationships": {
+          "children": {
+            "data": [
+              {
+                "id": "767",
+                "type": "child"
+              },
+              {
+                "id": "733",
+                "type": "child"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "767",
+        "type": "child",
+        "attributes": {
+          "parent_id": 1184,
+          "age": 10
+        },
+        "relationships": {
+          "parent": {
+            "data": {
+              "id": "1184",
+              "type": "user"
+            }
+          }
+        }
+      },
+      {
+        "id": "733",
+        "type": "child",
+        "attributes": {
+          "parent_id": 1184,
+          "age": 2
+        },
+        "relationships": {
+          "parent": {
+            "data": {
+              "id": "1184",
+              "type": "user"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

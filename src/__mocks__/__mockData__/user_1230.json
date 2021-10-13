@@ -1,0 +1,74 @@
+{
+  "data": {
+    "data": {
+      "id": "1230",
+      "type": "user",
+      "attributes": {
+        "id": 1230,
+        "avatar": null,
+        "first_name": "Ari",
+        "verified": false,
+        "fuzzy_latitude": "42.2798583744957",
+        "fuzzy_longitude": "-71.7923605922667",
+        "locality": "Worcester",
+        "sublocality": null,
+        "neighborhood": "Biotech Park Area",
+        "admin_area_level_1": "Massachusetts",
+        "admin_area_level_2": "Worcester County",
+        "images": [
+          "https://res.cloudinary.com/cottageclass2/image/upload/v1550865925/avatars/ari_photo_sxw70e.png",
+          "https://res.cloudinary.com/cottageclass2/image/upload/v1550865941/avatars/Image_from_iOS_u7dxcz.png",
+          "https://res.cloudinary.com/cottageclass2/image/upload/v1550865985/avatars/2013-02-09_13.56.09_zzrtjv.png",
+          "https://res.cloudinary.com/cottageclass2/image/upload/v1550865992/avatars/2012-10-19_13.57.39_pzi6hl.png",
+          "https://res.cloudinary.com/cottageclass2/image/upload/v1550865999/avatars/2012-06-21_14.44.23_tywfj9.png",
+          "https://res.cloudinary.com/cottageclass2/image/upload/v1550866006/avatars/2013-01-26_09.29.01_s1va6c.png",
+          "https://res.cloudinary.com/cottageclass2/image/upload/v1550866012/avatars/2012-11-19_21.47.23_lhpttt.png",
+          "https://res.cloudinary.com/cottageclass2/image/upload/v1550866024/avatars/2019-01-27_09.18.43_v4c1ui.png",
+          "https://res.cloudinary.com/cottageclass2/image/upload/v1550866035/avatars/2013-09-28_21.23.05_tsl6be.png"
+        ],
+        "languages": [],
+        "job_position": "Middle School teacher",
+        "employer": "City of Worcester",
+        "highest_education": null,
+        "school": null,
+        "facebook_uid": "10161426358710224",
+        "instagram_user": null,
+        "twitter_user": null,
+        "linkedin_user": null,
+        "created_at": "2019-02-22T18:56:31.314Z",
+        "child_ages": [
+          3
+        ],
+        "profile_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.\r\nRoccaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nElit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint."
+      },
+      "relationships": {
+        "children": {
+          "data": [
+            {
+              "id": "768",
+              "type": "child"
+            }
+          ]
+        }
+      }
+    },
+    "included": [
+      {
+        "id": "768",
+        "type": "child",
+        "attributes": {
+          "parent_id": 1230,
+          "age": 3
+        },
+        "relationships": {
+          "parent": {
+            "data": {
+              "id": "1230",
+              "type": "user"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

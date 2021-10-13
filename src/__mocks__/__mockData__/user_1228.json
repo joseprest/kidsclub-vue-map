@@ -1,0 +1,92 @@
+{
+  "data": {
+    "data": {
+      "id": "1228",
+      "type": "user",
+      "attributes": {
+        "agree_tos": false,
+        "first_name": "ari",
+        "last_name": "karda",
+        "verified": false,
+        "avatar": "https://res.cloudinary.com/cottageclass2/image/upload/v1550852508/avatars/ari_photo_qie6qh.png",
+        "facebook_uid": null,
+        "apartment_number": null,
+        "street_number": "45",
+        "route": "Orne Street",
+        "locality": "Worcester",
+        "sublocality": null,
+        "neighborhood": "Biotech Park Area",
+        "admin_area_level_1": "Massachusetts",
+        "admin_area_level_2": "Worcester County",
+        "country": "United States",
+        "postal_code": "01605",
+        "latitude": "42.2798695",
+        "longitude": "-71.7898409",
+        "phone_country_code": "1",
+        "phone_area_code": "609",
+        "phone_number": "2164398",
+        "available_mornings": null,
+        "available_afternoons": null,
+        "available_evenings": null,
+        "available_weekends": null,
+        "network_code": "",
+        "activities": [],
+        "phone": "(609) 216-4398",
+        "full_address": "45 Orne Street, Worcester, Massachusetts, Worcester County, United States 01605",
+        "profile_blurb": null,
+        "onboarding_care_type": null,
+        "job_position": null,
+        "employer": null,
+        "highest_education": null,
+        "school": null,
+        "instagram_user": null,
+        "twitter_user": null,
+        "linkedin_user": null,
+        "images": [],
+        "languages": [],
+        "date_created": "2019-02-22T16:21:51.663Z",
+        "hosted_events_count": 0,
+        "participated_events_count": 0
+      },
+      "relationships": {
+        "children": {
+          "data": [
+            {
+              "id": "766",
+              "type": "child"
+            }
+          ]
+        },
+        "user_reviews": {
+          "data": []
+        }
+      }
+    },
+    "included": [
+      {
+        "id": "766",
+        "type": "child",
+        "attributes": {
+          "first_name": "pesh",
+          "school_name": "",
+          "age": 2,
+          "allergies": [],
+          "dietary_restrictions": [],
+          "special_needs": null,
+          "birthday": "2017-01-23"
+        },
+        "relationships": {
+          "emergency_contacts": {
+            "data": [
+              {
+                "id": "93",
+                "type": "emergency_contact"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "jwt": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTEzOTgwNjQsInN1YiI6MTIyOCwiZW1haWwiOiJhcmlAc3BhY2VpbmNoLmNvbSIsIm5ldHdvcmtfY29kZSI6IiJ9.ZjjF6mMMo2YwcMCppBf4_21EqlKA9TVTS5zQ-Llj_LI"
+  }
+}

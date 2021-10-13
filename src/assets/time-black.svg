@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>mvp/icons/time-black</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 22 0 22 21.9998 0 21.9998"></polygon>
+    </defs>
+    <g id="mvp/icons/time-black" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(1.000000, 1.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M11,19.9998 C6.038,19.9998 2,15.9628 2,10.9998 C2,6.0378 6.038,1.9998 11,1.9998 C15.962,1.9998 20,6.0378 20,10.9998 C20,15.9628 15.962,19.9998 11,19.9998 M11,-0.0002 C4.925,-0.0002 0,4.9248 0,10.9998 C0,17.0748 4.925,21.9998 11,21.9998 C17.075,21.9998 22,17.0748 22,10.9998 C22,4.9248 17.075,-0.0002 11,-0.0002" id="Fill-1" fill="#000000" mask="url(#mask-2)"></path>
+        </g>
+        <polygon id="Fill-4" fill="#000000" points="13 5.8099 11 5.8099 11 12.4139 14.369 15.7839 15.783 14.3699 13 11.5859"></polygon>
+    </g>
+</svg>

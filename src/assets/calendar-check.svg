@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>mvp/icons/calendar-check</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="mvp/icons/calendar-check" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M3.001,11.883 L3.001,6.945 C3.001,5.842 3.897,4.945 5.001,4.945 L19.001,4.945 C20.104,4.945 21.001,5.842 21.001,6.945 L21.001,11.883 L21.001,18.573 C21.001,19.676 20.104,20.573 19.001,20.573 L5.001,20.573 C3.897,20.573 3.001,19.676 3.001,18.573 L3.001,11.883 Z M18.625,2.945 L18.625,1 L16.625,1 L16.625,2.945 L7.375,2.945 L7.375,1 L5.375,1 L5.375,2.945 L5.001,2.945 C2.8,2.945 1.001,4.745 1.001,6.945 L1.001,9.883 L1,11.883 L1.001,18.573 C1.001,20.773 2.8,22.573 5.001,22.573 L19.001,22.573 C21.2,22.573 23.001,20.773 23.001,18.573 L23.001,6.945 C23.001,4.745 21.2,2.945 19.001,2.945 L18.625,2.945 Z" id="Fill-1" fill="#FFFFFF"></path>
+        <polyline id="Path-4" stroke="#FFFFFF" stroke-width="2" points="7 12.659837 10.1700815 15.8299185 17 9"></polyline>
+    </g>
+</svg>

@@ -1,0 +1,331 @@
+[
+    {
+	"name": "Flatbush Families",  
+	"location": {"lat": 40.666485, "lng": -73.944122},
+	"zoom": 12, 
+	"stub": "flatbushfamilies",
+	"price": "12.25",
+	"percentage": 0.2
+    },
+
+    {
+	"name": "BoCoCaGo Families",  
+	"location": {"lat": 40.6816365, "lng": -73.9935895},
+	"zoom": 12, 
+	"stub": "bococago",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+
+    {
+	"name": "Escondido Families",  
+	"location": {"lat": 33.1048457, "lng": -117.0562155},
+	"zoom": 12, 
+	"stub": "escondido-network",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+
+
+    {
+	"name": "Bushridge Families",  
+	"location": {"lat": 40.6942496, "lng": -73.9564409},
+	"zoom": 12, 
+	"stub": "bushridgeparents",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+
+    {
+	"name": "Greenpoint/Williamsburg Mommies",  
+	"location": {"lat": 40.7293685, "lng": -73.9633257},
+	"zoom": 12, 
+	"stub": "greenpointwilliamsburgmommies",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+
+    {
+	"name": "NYC Homeschool Families",  
+	"location": {"lat": 40.6971494, "lng": -74.2598572},
+	"zoom": 10, 
+	"stub": "nyc-homeschoolers",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+
+    {
+	"name": "Prospect Heights Families",  
+	"location": {"lat": 40.6778882, "lng": -73.9787793},
+	"zoom": 12, 
+	"stub": "prospectheightsparents",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+
+    {
+	"name": "Brooklyn Apple Academy Families",  
+	"location": {"lat": 40.6657231, "lng": -73.9910455},
+	"zoom": 13, 
+	"stub": "brooklynappleacademy",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "Crown Heights",  
+	"location": {"lat": 40.6721654, "lng": -73.9768352},
+	"zoom": 13, 
+	"stub": "crownheights",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "Prospect Lefferts Gardens Parents",  
+	"location": {"lat": 40.6590448, "lng": -73.9506774},
+	"zoom": 13, 
+	"stub": "prospectleffertsparents",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "North Brooklyn",  
+	"location": {"lat": 40.670768, "lng": -73.930578},
+	"zoom": 13, 
+	"stub": "northbrooklyn",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+
+    {
+	"name": "BedStuy Parents",  
+	"location": {"lat": 40.688553, "lng": -73.9335877},
+	"zoom": 13, 
+	"stub": "bedstuyparents",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "NYC Baby Stuff",  
+	"location": {"lat": 40.670768, "lng": -73.930578},
+	"zoom": 9, 
+	"stub": "nycbabystuff",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "CottageClass",  
+	"location": {"lat": 40.6974881, "lng": -73.979681},
+	"zoom": 9, 
+	"stub": "cottageclass",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "Waterfront Family Salon",  
+	"location": {"lat": 40.7019341, "lng": -73.9858926},
+	"zoom": 10, 
+	"stub": "waterfrontfamilysalon",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "Port Washington",  
+	"location": {"lat": 40.8400207, "lng": -73.6933107},
+	"zoom": 12, 
+	"stub": "portwashington",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "The Mission",  
+	"location": {"lat": 37.7666452, "lng": -122.4296227}, 
+	"zoom": 12, 
+	"stub": "themission",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "Madison Square Park",  
+	"location": {"lat": 40.7520547, "lng": -74.0037646}, 
+	"zoom": 12, 
+	"stub": "madisonsquarepark",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "Hyde Park",  
+	"location": {"lat": 41.7974109, "lng": -87.5912157}, 
+	"zoom": 12, 
+	"stub": "hydepark",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "Sunny Side",  
+	"location": {"lat": 40.746347, "lng": -73.914718},   
+	"zoom": 12, 
+	"stub": "sunnyside",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "Brooklyn",  
+	"location": {"lat": 40.6743075, "lng": -73.9734987},  
+	"zoom": 12, 
+	"stub": "brooklyn",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "Henley",  
+	"location": {"lat": 51.5316145, "lng": -0.9193641}, 
+	"zoom": 12, 
+	"stub": "henley",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "Dupont Circle",  
+	"location": {"lat": 38.9111048, "lng": -77.042613}, 
+	"zoom": 12, 
+	"stub": "dupontcircle",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "Harlem",  
+	"location": {"lat": 40.824667, "lng": -73.941749}, 
+	"zoom": 12, 
+	"stub": "harlem",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "Forest Hills",  
+	"location": {"lat": 40.7222902, "lng": -73.8615556}, 
+	"zoom": 12, 
+	"stub": "foresthills",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "Dumbo",  
+	"location": {"lat": 40.7035132, "lng": -73.9939204}, 
+	"zoom": 12, 
+	"stub": "dumbo",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "Cortelyou",  
+	"location": {"lat": 40.635011, "lng": -73.943780}, 
+	"zoom": 12, 
+	"stub": "cortelyou",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "NoeValley",  
+	"location": {"lat": 37.7490555, "lng": -122.4344773}, 
+	"zoom": 12, 
+	"stub": "noevalley",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "AU Park",  
+	"location": {"lat": 38.9486599, "lng": -77.0880777}, 	
+	"zoom": 12, 
+	"stub": "aupark",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "Riverdale",  
+	"location": {"lat": 40.876798, "lng": -73.9198921}, 	
+	"zoom": 12, 
+	"stub": "riverdale",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "FortGreene",  
+	"location": {"lat": 40.692324, "lng": -73.9833117}, 
+	"zoom": 12, 
+	"stub": "fortgreene",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "Somerville",  
+	"location": {"lat": 42.427501, "lng": -71.1113899}, 
+	"zoom": 12, 
+	"stub": "somerville",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "Syracuse",  
+	"location": {"lat": 43.0367387, "lng": -76.1051214}, 
+	"zoom": 12, 
+	"stub": "syracuse",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "Generic",  
+	"location": {"lat": 35.5599124, "lng": -97.6315306}, 
+	"zoom": 9, 
+	"stub": "generic",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "Cambridge",  
+	"location": {"lat": 42.372713, "lng": -71.1088089}, 
+	"zoom": 12, 
+	"stub": "cambridge",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "A new network (demo)",  
+	"location": {"lat": 40.666485, "lng": -73.944122},
+	"zoom": 12, 
+	"stub": "a-new-network",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "Prospect Families (demo)",  
+	"location": {"lat": 40.6668972, "lng": -73.9798299},
+	"zoom": 12, 
+	"stub": "demo",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "Clinton Hill Coops",
+	"location": {"lat": 40.6920723, "lng": -73.9705158},
+	"zoom": 15,
+	"stub": "210clinton",
+	"price": "12.50",
+	"percentage": 0.2
+    },
+    {
+	"name": "PS29",
+	"location": {"lat": 40.6869221, "lng": -73.9978474},
+	"zoom": 14,
+	"stub": "ps29",
+	"price": "25.00",
+	"percentage": 0.2
+    },
+    {
+	"name": "Brooklyn CareShare",
+	"location": {"lat": 40.6869221, "lng": -73.9978474},
+	"zoom": 14,
+	"stub": "brooklyn-events",
+	"price": "25.00",
+	"percentage": 0.2
+    }
+]

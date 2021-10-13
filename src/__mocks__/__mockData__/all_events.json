@@ -1,0 +1,2432 @@
+{
+  "data": {
+    "data": [
+      {
+        "id": "2353",
+        "type": "event",
+        "attributes": {
+          "name": "Games \u0026 puzzles \u0026 tacos 🌮 with Ari",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "games \u0026 puzzles"
+          ],
+          "foods": [
+            "tacos 🌮"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1228,
+          "host_avatar": "https://res.cloudinary.com/cottageclass2/image/upload/v1550852508/avatars/ari_photo_qie6qh.png",
+          "host_first_name": "ari",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2804470048222",
+          "host_fuzzy_longitude": "-71.7921261738453",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": null,
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-22T16:21:51.663Z",
+          "host_child_ages": [
+            2
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-03-16T18:00:00-04:00",
+          "ends_at": "2019-03-16T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1228",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2359",
+        "type": "event",
+        "attributes": {
+          "name": "Baking \u0026 soup 🍜 with Ari",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": true,
+          "activity_names": [
+            "baking"
+          ],
+          "foods": [
+            "mac 'n' cheese 🧀"
+          ],
+          "house_rules": "Please keep voices low",
+          "pet_description": "Alberto the border collie is old and snuggly",
+          "host_id": 1230,
+          "host_avatar": null,
+          "host_first_name": "Ari",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2798583744957",
+          "host_fuzzy_longitude": "-71.7923605922667",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865925/avatars/ari_photo_sxw70e.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865941/avatars/Image_from_iOS_u7dxcz.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865985/avatars/2013-02-09_13.56.09_zzrtjv.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865992/avatars/2012-10-19_13.57.39_pzi6hl.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865999/avatars/2012-06-21_14.44.23_tywfj9.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866006/avatars/2013-01-26_09.29.01_s1va6c.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866012/avatars/2012-11-19_21.47.23_lhpttt.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866024/avatars/2019-01-27_09.18.43_v4c1ui.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866035/avatars/2013-09-28_21.23.05_tsl6be.png"
+          ],
+          "host_languages": [],
+          "host_job_position": "Middle School teacher",
+          "host_employer": "City of Worcester",
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "10161426358710224",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-22T18:56:31.314Z",
+          "host_child_ages": [
+            3
+          ],
+          "host_profile_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.\r\nRoccaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nElit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.",
+          "starts_at": "2019-03-22T18:00:00-04:00",
+          "ends_at": "2019-03-22T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1230",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2186",
+        "type": "event",
+        "attributes": {
+          "name": "Arts \u0026 crafts \u0026 tacos 🌮 with Asa",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "arts \u0026 crafts"
+          ],
+          "foods": [
+            "tacos 🌮"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1184,
+          "host_avatar": null,
+          "host_first_name": "Asa",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2621022893375",
+          "host_fuzzy_longitude": "-71.7869041541646",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Shrewsbury Street",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "2345507718810193",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-20T19:50:54.060Z",
+          "host_child_ages": [
+            10,
+            2
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-03-23T18:00:00-04:00",
+          "ends_at": "2019-03-23T21:00:00-04:00",
+          "participants_count": 1,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1184",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": [
+              {
+                "id": "228",
+                "type": "participant"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "2455",
+        "type": "event",
+        "attributes": {
+          "name": "Arts \u0026 crafts \u0026 pancakes 🥞 with Holmes",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "arts \u0026 crafts"
+          ],
+          "foods": [
+            "pancakes 🥞"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1255,
+          "host_avatar": null,
+          "host_first_name": "Holmes",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2753063279847",
+          "host_fuzzy_longitude": "-71.8145900945689",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Salisbury Street",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "10155630157971969",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-25T14:31:19.805Z",
+          "host_child_ages": [
+            14
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-03-23T18:00:00-04:00",
+          "ends_at": "2019-03-23T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1255",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2461",
+        "type": "event",
+        "attributes": {
+          "name": "Arts \u0026 crafts \u0026 mac 'n' cheese 🧀 with Walter",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "arts \u0026 crafts"
+          ],
+          "foods": [
+            "mac 'n' cheese 🧀"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1268,
+          "host_avatar": "https://res.cloudinary.com/cottageclass2/image/upload/v1551224065/avatars/ari_photo_bw_asf7dj.png",
+          "host_first_name": "Walter",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2809389569641",
+          "host_fuzzy_longitude": "-71.7882919225797",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": null,
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-26T23:34:28.200Z",
+          "host_child_ages": [
+            7
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-03-29T18:00:00-04:00",
+          "ends_at": "2019-03-29T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1268",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2139",
+        "type": "event",
+        "attributes": {
+          "name": "Movie night \u0026 tacos 🌮 with Man",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "movie night"
+          ],
+          "foods": [
+            "tacos 🌮"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1175,
+          "host_avatar": null,
+          "host_first_name": "Man",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2642277559277",
+          "host_fuzzy_longitude": "-71.7851337615156",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Shrewsbury Street",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "107130980318829",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-20T17:42:59.843Z",
+          "host_child_ages": [
+            2
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-04-13T17:30:00-04:00",
+          "ends_at": "2019-04-13T20:30:00-04:00",
+          "participants_count": 1,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1175",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": [
+              {
+                "id": "201",
+                "type": "participant"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "2354",
+        "type": "event",
+        "attributes": {
+          "name": "Games \u0026 puzzles \u0026 tacos 🌮 with Ari",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "games \u0026 puzzles"
+          ],
+          "foods": [
+            "tacos 🌮"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1228,
+          "host_avatar": "https://res.cloudinary.com/cottageclass2/image/upload/v1550852508/avatars/ari_photo_qie6qh.png",
+          "host_first_name": "ari",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2804470048222",
+          "host_fuzzy_longitude": "-71.7921261738453",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": null,
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-22T16:21:51.663Z",
+          "host_child_ages": [
+            2
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-04-13T18:00:00-04:00",
+          "ends_at": "2019-04-13T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1228",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2360",
+        "type": "event",
+        "attributes": {
+          "name": "Baking \u0026 soup 🍜 with Ari",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 13,
+          "has_pet": true,
+          "activity_names": [
+            "baking"
+          ],
+          "foods": [
+            "soup 🍜"
+          ],
+          "house_rules": "Please keep voices low",
+          "pet_description": "Alberto the border collie is old and snuggly",
+          "host_id": 1230,
+          "host_avatar": null,
+          "host_first_name": "Ari",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2798583744957",
+          "host_fuzzy_longitude": "-71.7923605922667",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865925/avatars/ari_photo_sxw70e.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865941/avatars/Image_from_iOS_u7dxcz.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865985/avatars/2013-02-09_13.56.09_zzrtjv.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865992/avatars/2012-10-19_13.57.39_pzi6hl.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865999/avatars/2012-06-21_14.44.23_tywfj9.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866006/avatars/2013-01-26_09.29.01_s1va6c.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866012/avatars/2012-11-19_21.47.23_lhpttt.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866024/avatars/2019-01-27_09.18.43_v4c1ui.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866035/avatars/2013-09-28_21.23.05_tsl6be.png"
+          ],
+          "host_languages": [],
+          "host_job_position": "Middle School teacher",
+          "host_employer": "City of Worcester",
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "10161426358710224",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-22T18:56:31.314Z",
+          "host_child_ages": [
+            3
+          ],
+          "host_profile_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.\r\nRoccaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nElit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.",
+          "starts_at": "2019-04-19T18:00:00-04:00",
+          "ends_at": "2019-04-19T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1230",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2187",
+        "type": "event",
+        "attributes": {
+          "name": "Arts \u0026 crafts \u0026 tacos 🌮 with Asa",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "arts \u0026 crafts"
+          ],
+          "foods": [
+            "tacos 🌮"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1184,
+          "host_avatar": null,
+          "host_first_name": "Asa",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2621022893375",
+          "host_fuzzy_longitude": "-71.7869041541646",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Shrewsbury Street",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "2345507718810193",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-20T19:50:54.060Z",
+          "host_child_ages": [
+            10,
+            2
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-04-20T18:00:00-04:00",
+          "ends_at": "2019-04-20T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1184",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2456",
+        "type": "event",
+        "attributes": {
+          "name": "Arts \u0026 crafts \u0026 pancakes 🥞 with Holmes",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "arts \u0026 crafts"
+          ],
+          "foods": [
+            "pancakes 🥞"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1255,
+          "host_avatar": null,
+          "host_first_name": "Holmes",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2753063279847",
+          "host_fuzzy_longitude": "-71.8145900945689",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Salisbury Street",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "10155630157971969",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-25T14:31:19.805Z",
+          "host_child_ages": [
+            14
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-04-20T18:00:00-04:00",
+          "ends_at": "2019-04-20T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1255",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2462",
+        "type": "event",
+        "attributes": {
+          "name": "Arts \u0026 crafts \u0026 mac 'n' cheese 🧀 with Walter",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "arts \u0026 crafts"
+          ],
+          "foods": [
+            "mac 'n' cheese 🧀"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1268,
+          "host_avatar": "https://res.cloudinary.com/cottageclass2/image/upload/v1551224065/avatars/ari_photo_bw_asf7dj.png",
+          "host_first_name": "Walter",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2809389569641",
+          "host_fuzzy_longitude": "-71.7882919225797",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": null,
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-26T23:34:28.200Z",
+          "host_child_ages": [
+            7
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-04-26T18:00:00-04:00",
+          "ends_at": "2019-04-26T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1268",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2140",
+        "type": "event",
+        "attributes": {
+          "name": "Movie night \u0026 tacos 🌮 with Man",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "movie night"
+          ],
+          "foods": [
+            "tacos 🌮"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1175,
+          "host_avatar": null,
+          "host_first_name": "Man",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2642277559277",
+          "host_fuzzy_longitude": "-71.7851337615156",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Shrewsbury Street",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "107130980318829",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-20T17:42:59.843Z",
+          "host_child_ages": [
+            2
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-05-11T17:30:00-04:00",
+          "ends_at": "2019-05-11T20:30:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1175",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2355",
+        "type": "event",
+        "attributes": {
+          "name": "Games \u0026 puzzles \u0026 tacos 🌮 with Ari",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "games \u0026 puzzles"
+          ],
+          "foods": [
+            "tacos 🌮"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1228,
+          "host_avatar": "https://res.cloudinary.com/cottageclass2/image/upload/v1550852508/avatars/ari_photo_qie6qh.png",
+          "host_first_name": "ari",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2804470048222",
+          "host_fuzzy_longitude": "-71.7921261738453",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": null,
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-22T16:21:51.663Z",
+          "host_child_ages": [
+            2
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-05-11T18:00:00-04:00",
+          "ends_at": "2019-05-11T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1228",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2361",
+        "type": "event",
+        "attributes": {
+          "name": "Baking \u0026 soup 🍜 with Ari",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": true,
+          "activity_names": [
+            "baking"
+          ],
+          "foods": [
+            "soup 🍜"
+          ],
+          "house_rules": "Please keep voices low",
+          "pet_description": "Alberto the border collie is old and snuggly",
+          "host_id": 1230,
+          "host_avatar": null,
+          "host_first_name": "Ari",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2798583744957",
+          "host_fuzzy_longitude": "-71.7923605922667",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865925/avatars/ari_photo_sxw70e.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865941/avatars/Image_from_iOS_u7dxcz.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865985/avatars/2013-02-09_13.56.09_zzrtjv.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865992/avatars/2012-10-19_13.57.39_pzi6hl.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865999/avatars/2012-06-21_14.44.23_tywfj9.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866006/avatars/2013-01-26_09.29.01_s1va6c.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866012/avatars/2012-11-19_21.47.23_lhpttt.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866024/avatars/2019-01-27_09.18.43_v4c1ui.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866035/avatars/2013-09-28_21.23.05_tsl6be.png"
+          ],
+          "host_languages": [],
+          "host_job_position": "Middle School teacher",
+          "host_employer": "City of Worcester",
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "10161426358710224",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-22T18:56:31.314Z",
+          "host_child_ages": [
+            3
+          ],
+          "host_profile_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.\r\nRoccaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nElit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.",
+          "starts_at": "2019-05-17T18:00:00-04:00",
+          "ends_at": "2019-05-17T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1230",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2188",
+        "type": "event",
+        "attributes": {
+          "name": "Arts \u0026 crafts \u0026 tacos 🌮 with Asa",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "arts \u0026 crafts"
+          ],
+          "foods": [
+            "tacos 🌮"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1184,
+          "host_avatar": null,
+          "host_first_name": "Asa",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2621022893375",
+          "host_fuzzy_longitude": "-71.7869041541646",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Shrewsbury Street",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "2345507718810193",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-20T19:50:54.060Z",
+          "host_child_ages": [
+            10,
+            2
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-05-18T18:00:00-04:00",
+          "ends_at": "2019-05-18T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1184",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2457",
+        "type": "event",
+        "attributes": {
+          "name": "Arts \u0026 crafts \u0026 pancakes 🥞 with Holmes",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "arts \u0026 crafts"
+          ],
+          "foods": [
+            "pancakes 🥞"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1255,
+          "host_avatar": null,
+          "host_first_name": "Holmes",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2753063279847",
+          "host_fuzzy_longitude": "-71.8145900945689",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Salisbury Street",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "10155630157971969",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-25T14:31:19.805Z",
+          "host_child_ages": [
+            14
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-05-18T18:00:00-04:00",
+          "ends_at": "2019-05-18T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1255",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2463",
+        "type": "event",
+        "attributes": {
+          "name": "Arts \u0026 crafts \u0026 mac 'n' cheese 🧀 with Walter",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "arts \u0026 crafts"
+          ],
+          "foods": [
+            "mac 'n' cheese 🧀"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1268,
+          "host_avatar": "https://res.cloudinary.com/cottageclass2/image/upload/v1551224065/avatars/ari_photo_bw_asf7dj.png",
+          "host_first_name": "Walter",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2809389569641",
+          "host_fuzzy_longitude": "-71.7882919225797",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": null,
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-26T23:34:28.200Z",
+          "host_child_ages": [
+            7
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-05-24T18:00:00-04:00",
+          "ends_at": "2019-05-24T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1268",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2141",
+        "type": "event",
+        "attributes": {
+          "name": "Movie night \u0026 tacos 🌮 with Man",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "movie night"
+          ],
+          "foods": [
+            "tacos 🌮"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1175,
+          "host_avatar": null,
+          "host_first_name": "Man",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2642277559277",
+          "host_fuzzy_longitude": "-71.7851337615156",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Shrewsbury Street",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "107130980318829",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-20T17:42:59.843Z",
+          "host_child_ages": [
+            2
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-06-08T17:30:00-04:00",
+          "ends_at": "2019-06-08T20:30:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1175",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2356",
+        "type": "event",
+        "attributes": {
+          "name": "Games \u0026 puzzles \u0026 tacos 🌮 with Ari",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "games \u0026 puzzles"
+          ],
+          "foods": [
+            "tacos 🌮"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1228,
+          "host_avatar": "https://res.cloudinary.com/cottageclass2/image/upload/v1550852508/avatars/ari_photo_qie6qh.png",
+          "host_first_name": "ari",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2804470048222",
+          "host_fuzzy_longitude": "-71.7921261738453",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": null,
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-22T16:21:51.663Z",
+          "host_child_ages": [
+            2
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-06-08T18:00:00-04:00",
+          "ends_at": "2019-06-08T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1228",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2362",
+        "type": "event",
+        "attributes": {
+          "name": "Baking \u0026 soup 🍜 with Ari",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": true,
+          "activity_names": [
+            "baking"
+          ],
+          "foods": [
+            "soup 🍜"
+          ],
+          "house_rules": "Please keep voices low",
+          "pet_description": "Alberto the border collie is old and snuggly",
+          "host_id": 1230,
+          "host_avatar": null,
+          "host_first_name": "Ari",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2798583744957",
+          "host_fuzzy_longitude": "-71.7923605922667",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865925/avatars/ari_photo_sxw70e.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865941/avatars/Image_from_iOS_u7dxcz.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865985/avatars/2013-02-09_13.56.09_zzrtjv.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865992/avatars/2012-10-19_13.57.39_pzi6hl.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865999/avatars/2012-06-21_14.44.23_tywfj9.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866006/avatars/2013-01-26_09.29.01_s1va6c.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866012/avatars/2012-11-19_21.47.23_lhpttt.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866024/avatars/2019-01-27_09.18.43_v4c1ui.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866035/avatars/2013-09-28_21.23.05_tsl6be.png"
+          ],
+          "host_languages": [],
+          "host_job_position": "Middle School teacher",
+          "host_employer": "City of Worcester",
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "10161426358710224",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-22T18:56:31.314Z",
+          "host_child_ages": [
+            3
+          ],
+          "host_profile_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.\r\nRoccaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nElit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.",
+          "starts_at": "2019-06-14T18:00:00-04:00",
+          "ends_at": "2019-06-14T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1230",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2458",
+        "type": "event",
+        "attributes": {
+          "name": "Arts \u0026 crafts \u0026 pancakes 🥞 with Holmes",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "arts \u0026 crafts"
+          ],
+          "foods": [
+            "pancakes 🥞"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1255,
+          "host_avatar": null,
+          "host_first_name": "Holmes",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2753063279847",
+          "host_fuzzy_longitude": "-71.8145900945689",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Salisbury Street",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "10155630157971969",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-25T14:31:19.805Z",
+          "host_child_ages": [
+            14
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-06-15T18:00:00-04:00",
+          "ends_at": "2019-06-15T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1255",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2189",
+        "type": "event",
+        "attributes": {
+          "name": "Arts \u0026 crafts \u0026 tacos 🌮 with Asa",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "arts \u0026 crafts"
+          ],
+          "foods": [
+            "tacos 🌮"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1184,
+          "host_avatar": null,
+          "host_first_name": "Asa",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2621022893375",
+          "host_fuzzy_longitude": "-71.7869041541646",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Shrewsbury Street",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "2345507718810193",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-20T19:50:54.060Z",
+          "host_child_ages": [
+            10,
+            2
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-06-15T18:00:00-04:00",
+          "ends_at": "2019-06-15T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1184",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2464",
+        "type": "event",
+        "attributes": {
+          "name": "Arts \u0026 crafts \u0026 mac 'n' cheese 🧀 with Walter",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "arts \u0026 crafts"
+          ],
+          "foods": [
+            "mac 'n' cheese 🧀"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1268,
+          "host_avatar": "https://res.cloudinary.com/cottageclass2/image/upload/v1551224065/avatars/ari_photo_bw_asf7dj.png",
+          "host_first_name": "Walter",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2809389569641",
+          "host_fuzzy_longitude": "-71.7882919225797",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": null,
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-26T23:34:28.200Z",
+          "host_child_ages": [
+            7
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-06-21T18:00:00-04:00",
+          "ends_at": "2019-06-21T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1268",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2142",
+        "type": "event",
+        "attributes": {
+          "name": "Movie night \u0026 tacos 🌮 with Man",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "movie night"
+          ],
+          "foods": [
+            "tacos 🌮"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1175,
+          "host_avatar": null,
+          "host_first_name": "Man",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2642277559277",
+          "host_fuzzy_longitude": "-71.7851337615156",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Shrewsbury Street",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "107130980318829",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-20T17:42:59.843Z",
+          "host_child_ages": [
+            2
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-07-06T17:30:00-04:00",
+          "ends_at": "2019-07-06T20:30:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1175",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2357",
+        "type": "event",
+        "attributes": {
+          "name": "Games \u0026 puzzles \u0026 tacos 🌮 with Ari",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "games \u0026 puzzles"
+          ],
+          "foods": [
+            "tacos 🌮"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1228,
+          "host_avatar": "https://res.cloudinary.com/cottageclass2/image/upload/v1550852508/avatars/ari_photo_qie6qh.png",
+          "host_first_name": "ari",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2804470048222",
+          "host_fuzzy_longitude": "-71.7921261738453",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": null,
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-22T16:21:51.663Z",
+          "host_child_ages": [
+            2
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-07-06T18:00:00-04:00",
+          "ends_at": "2019-07-06T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1228",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2363",
+        "type": "event",
+        "attributes": {
+          "name": "Baking \u0026 soup 🍜 with Ari",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": true,
+          "activity_names": [
+            "baking"
+          ],
+          "foods": [
+            "soup 🍜"
+          ],
+          "house_rules": "Please keep voices low",
+          "pet_description": "Alberto the border collie is old and snuggly",
+          "host_id": 1230,
+          "host_avatar": null,
+          "host_first_name": "Ari",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2798583744957",
+          "host_fuzzy_longitude": "-71.7923605922667",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865925/avatars/ari_photo_sxw70e.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865941/avatars/Image_from_iOS_u7dxcz.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865985/avatars/2013-02-09_13.56.09_zzrtjv.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865992/avatars/2012-10-19_13.57.39_pzi6hl.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865999/avatars/2012-06-21_14.44.23_tywfj9.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866006/avatars/2013-01-26_09.29.01_s1va6c.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866012/avatars/2012-11-19_21.47.23_lhpttt.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866024/avatars/2019-01-27_09.18.43_v4c1ui.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866035/avatars/2013-09-28_21.23.05_tsl6be.png"
+          ],
+          "host_languages": [],
+          "host_job_position": "Middle School teacher",
+          "host_employer": "City of Worcester",
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "10161426358710224",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-22T18:56:31.314Z",
+          "host_child_ages": [
+            3
+          ],
+          "host_profile_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.\r\nRoccaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nElit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.",
+          "starts_at": "2019-07-12T18:00:00-04:00",
+          "ends_at": "2019-07-12T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1230",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2190",
+        "type": "event",
+        "attributes": {
+          "name": "Arts \u0026 crafts \u0026 tacos 🌮 with Asa",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "arts \u0026 crafts"
+          ],
+          "foods": [
+            "tacos 🌮"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1184,
+          "host_avatar": null,
+          "host_first_name": "Asa",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2621022893375",
+          "host_fuzzy_longitude": "-71.7869041541646",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Shrewsbury Street",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "2345507718810193",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-20T19:50:54.060Z",
+          "host_child_ages": [
+            10,
+            2
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-07-13T18:00:00-04:00",
+          "ends_at": "2019-07-13T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1184",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2459",
+        "type": "event",
+        "attributes": {
+          "name": "Arts \u0026 crafts \u0026 pancakes 🥞 with Holmes",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "arts \u0026 crafts"
+          ],
+          "foods": [
+            "pancakes 🥞"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1255,
+          "host_avatar": null,
+          "host_first_name": "Holmes",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2753063279847",
+          "host_fuzzy_longitude": "-71.8145900945689",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Salisbury Street",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "10155630157971969",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-25T14:31:19.805Z",
+          "host_child_ages": [
+            14
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-07-13T18:00:00-04:00",
+          "ends_at": "2019-07-13T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1255",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2465",
+        "type": "event",
+        "attributes": {
+          "name": "Arts \u0026 crafts \u0026 mac 'n' cheese 🧀 with Walter",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "arts \u0026 crafts"
+          ],
+          "foods": [
+            "mac 'n' cheese 🧀"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1268,
+          "host_avatar": "https://res.cloudinary.com/cottageclass2/image/upload/v1551224065/avatars/ari_photo_bw_asf7dj.png",
+          "host_first_name": "Walter",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2809389569641",
+          "host_fuzzy_longitude": "-71.7882919225797",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": null,
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-26T23:34:28.200Z",
+          "host_child_ages": [
+            7
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-07-19T18:00:00-04:00",
+          "ends_at": "2019-07-19T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1268",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2358",
+        "type": "event",
+        "attributes": {
+          "name": "Games \u0026 puzzles \u0026 tacos 🌮 with Ari",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "games \u0026 puzzles"
+          ],
+          "foods": [
+            "tacos 🌮"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1228,
+          "host_avatar": "https://res.cloudinary.com/cottageclass2/image/upload/v1550852508/avatars/ari_photo_qie6qh.png",
+          "host_first_name": "ari",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2804470048222",
+          "host_fuzzy_longitude": "-71.7921261738453",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": null,
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-22T16:21:51.663Z",
+          "host_child_ages": [
+            2
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-08-03T18:00:00-04:00",
+          "ends_at": "2019-08-03T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1228",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2364",
+        "type": "event",
+        "attributes": {
+          "name": "Baking \u0026 soup 🍜 with Ari",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": true,
+          "activity_names": [
+            "baking"
+          ],
+          "foods": [
+            "soup 🍜"
+          ],
+          "house_rules": "Please keep voices low",
+          "pet_description": "Alberto the border collie is old and snuggly",
+          "host_id": 1230,
+          "host_avatar": null,
+          "host_first_name": "Ari",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2798583744957",
+          "host_fuzzy_longitude": "-71.7923605922667",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865925/avatars/ari_photo_sxw70e.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865941/avatars/Image_from_iOS_u7dxcz.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865985/avatars/2013-02-09_13.56.09_zzrtjv.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865992/avatars/2012-10-19_13.57.39_pzi6hl.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865999/avatars/2012-06-21_14.44.23_tywfj9.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866006/avatars/2013-01-26_09.29.01_s1va6c.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866012/avatars/2012-11-19_21.47.23_lhpttt.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866024/avatars/2019-01-27_09.18.43_v4c1ui.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866035/avatars/2013-09-28_21.23.05_tsl6be.png"
+          ],
+          "host_languages": [],
+          "host_job_position": "Middle School teacher",
+          "host_employer": "City of Worcester",
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "10161426358710224",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-22T18:56:31.314Z",
+          "host_child_ages": [
+            3
+          ],
+          "host_profile_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.\r\nRoccaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nElit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.",
+          "starts_at": "2019-08-09T18:00:00-04:00",
+          "ends_at": "2019-08-09T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1230",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2460",
+        "type": "event",
+        "attributes": {
+          "name": "Arts \u0026 crafts \u0026 pancakes 🥞 with Holmes",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "arts \u0026 crafts"
+          ],
+          "foods": [
+            "pancakes 🥞"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1255,
+          "host_avatar": null,
+          "host_first_name": "Holmes",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2753063279847",
+          "host_fuzzy_longitude": "-71.8145900945689",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Salisbury Street",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "10155630157971969",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-25T14:31:19.805Z",
+          "host_child_ages": [
+            14
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-08-10T18:00:00-04:00",
+          "ends_at": "2019-08-10T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1255",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2466",
+        "type": "event",
+        "attributes": {
+          "name": "Arts \u0026 crafts \u0026 mac 'n' cheese 🧀 with Walter",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": false,
+          "activity_names": [
+            "arts \u0026 crafts"
+          ],
+          "foods": [
+            "mac 'n' cheese 🧀"
+          ],
+          "house_rules": null,
+          "pet_description": null,
+          "host_id": 1268,
+          "host_avatar": "https://res.cloudinary.com/cottageclass2/image/upload/v1551224065/avatars/ari_photo_bw_asf7dj.png",
+          "host_first_name": "Walter",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2809389569641",
+          "host_fuzzy_longitude": "-71.7882919225797",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [],
+          "host_languages": [],
+          "host_job_position": null,
+          "host_employer": null,
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": null,
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-26T23:34:28.200Z",
+          "host_child_ages": [
+            7
+          ],
+          "host_profile_blurb": null,
+          "starts_at": "2019-08-16T18:00:00-04:00",
+          "ends_at": "2019-08-16T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1268",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      }
+    ],
+    "included": [
+      {
+        "id": "1228",
+        "type": "user",
+        "attributes": {
+          "id": 1228,
+          "avatar": "https://res.cloudinary.com/cottageclass2/image/upload/v1550852508/avatars/ari_photo_qie6qh.png",
+          "first_name": "ari",
+          "verified": false,
+          "fuzzy_latitude": "42.2804470048222",
+          "fuzzy_longitude": "-71.7921261738453",
+          "locality": "Worcester",
+          "sublocality": null,
+          "neighborhood": "Biotech Park Area",
+          "admin_area_level_1": "Massachusetts",
+          "admin_area_level_2": "Worcester County",
+          "images": [],
+          "languages": [],
+          "job_position": null,
+          "employer": null,
+          "highest_education": null,
+          "school": null,
+          "facebook_uid": null,
+          "instagram_user": null,
+          "twitter_user": null,
+          "linkedin_user": null,
+          "created_at": "2019-02-22T16:21:51.663Z",
+          "child_ages": [
+            2
+          ],
+          "profile_blurb": null
+        },
+        "relationships": {
+          "children": {
+            "data": [
+              {
+                "id": "766",
+                "type": "child"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "1230",
+        "type": "user",
+        "attributes": {
+          "id": 1230,
+          "avatar": null,
+          "first_name": "Ari",
+          "verified": false,
+          "fuzzy_latitude": "42.2798583744957",
+          "fuzzy_longitude": "-71.7923605922667",
+          "locality": "Worcester",
+          "sublocality": null,
+          "neighborhood": "Biotech Park Area",
+          "admin_area_level_1": "Massachusetts",
+          "admin_area_level_2": "Worcester County",
+          "images": [
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865925/avatars/ari_photo_sxw70e.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865941/avatars/Image_from_iOS_u7dxcz.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865985/avatars/2013-02-09_13.56.09_zzrtjv.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865992/avatars/2012-10-19_13.57.39_pzi6hl.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865999/avatars/2012-06-21_14.44.23_tywfj9.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866006/avatars/2013-01-26_09.29.01_s1va6c.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866012/avatars/2012-11-19_21.47.23_lhpttt.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866024/avatars/2019-01-27_09.18.43_v4c1ui.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866035/avatars/2013-09-28_21.23.05_tsl6be.png"
+          ],
+          "languages": [],
+          "job_position": "Middle School teacher",
+          "employer": "City of Worcester",
+          "highest_education": null,
+          "school": null,
+          "facebook_uid": "10161426358710224",
+          "instagram_user": null,
+          "twitter_user": null,
+          "linkedin_user": null,
+          "created_at": "2019-02-22T18:56:31.314Z",
+          "child_ages": [
+            3
+          ],
+          "profile_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.\r\nRoccaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nElit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint."
+        },
+        "relationships": {
+          "children": {
+            "data": [
+              {
+                "id": "768",
+                "type": "child"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "1184",
+        "type": "user",
+        "attributes": {
+          "id": 1184,
+          "avatar": null,
+          "first_name": "Asa",
+          "verified": false,
+          "fuzzy_latitude": "42.2621022893375",
+          "fuzzy_longitude": "-71.7869041541646",
+          "locality": "Worcester",
+          "sublocality": null,
+          "neighborhood": "Shrewsbury Street",
+          "admin_area_level_1": "Massachusetts",
+          "admin_area_level_2": "Worcester County",
+          "images": [],
+          "languages": [],
+          "job_position": null,
+          "employer": null,
+          "highest_education": null,
+          "school": null,
+          "facebook_uid": "2345507718810193",
+          "instagram_user": null,
+          "twitter_user": null,
+          "linkedin_user": null,
+          "created_at": "2019-02-20T19:50:54.060Z",
+          "child_ages": [
+            10,
+            2
+          ],
+          "profile_blurb": null
+        },
+        "relationships": {
+          "children": {
+            "data": [
+              {
+                "id": "767",
+                "type": "child"
+              },
+              {
+                "id": "733",
+                "type": "child"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "1255",
+        "type": "user",
+        "attributes": {
+          "id": 1255,
+          "avatar": null,
+          "first_name": "Holmes",
+          "verified": false,
+          "fuzzy_latitude": "42.2753063279847",
+          "fuzzy_longitude": "-71.8145900945689",
+          "locality": "Worcester",
+          "sublocality": null,
+          "neighborhood": "Salisbury Street",
+          "admin_area_level_1": "Massachusetts",
+          "admin_area_level_2": "Worcester County",
+          "images": [],
+          "languages": [],
+          "job_position": null,
+          "employer": null,
+          "highest_education": null,
+          "school": null,
+          "facebook_uid": "10155630157971969",
+          "instagram_user": null,
+          "twitter_user": null,
+          "linkedin_user": null,
+          "created_at": "2019-02-25T14:31:19.805Z",
+          "child_ages": [
+            14
+          ],
+          "profile_blurb": null
+        },
+        "relationships": {
+          "children": {
+            "data": [
+              {
+                "id": "791",
+                "type": "child"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "1268",
+        "type": "user",
+        "attributes": {
+          "id": 1268,
+          "avatar": "https://res.cloudinary.com/cottageclass2/image/upload/v1551224065/avatars/ari_photo_bw_asf7dj.png",
+          "first_name": "Walter",
+          "verified": false,
+          "fuzzy_latitude": "42.2809389569641",
+          "fuzzy_longitude": "-71.7882919225797",
+          "locality": "Worcester",
+          "sublocality": null,
+          "neighborhood": "Biotech Park Area",
+          "admin_area_level_1": "Massachusetts",
+          "admin_area_level_2": "Worcester County",
+          "images": [],
+          "languages": [],
+          "job_position": null,
+          "employer": null,
+          "highest_education": null,
+          "school": null,
+          "facebook_uid": null,
+          "instagram_user": null,
+          "twitter_user": null,
+          "linkedin_user": null,
+          "created_at": "2019-02-26T23:34:28.200Z",
+          "child_ages": [
+            7
+          ],
+          "profile_blurb": null
+        },
+        "relationships": {
+          "children": {
+            "data": [
+              {
+                "id": "792",
+                "type": "child"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "1175",
+        "type": "user",
+        "attributes": {
+          "id": 1175,
+          "avatar": null,
+          "first_name": "Man",
+          "verified": false,
+          "fuzzy_latitude": "42.2642277559277",
+          "fuzzy_longitude": "-71.7851337615156",
+          "locality": "Worcester",
+          "sublocality": null,
+          "neighborhood": "Shrewsbury Street",
+          "admin_area_level_1": "Massachusetts",
+          "admin_area_level_2": "Worcester County",
+          "images": [],
+          "languages": [],
+          "job_position": null,
+          "employer": null,
+          "highest_education": null,
+          "school": null,
+          "facebook_uid": "107130980318829",
+          "instagram_user": null,
+          "twitter_user": null,
+          "linkedin_user": null,
+          "created_at": "2019-02-20T17:42:59.843Z",
+          "child_ages": [
+            2
+          ],
+          "profile_blurb": null
+        },
+        "relationships": {
+          "children": {
+            "data": [
+              {
+                "id": "725",
+                "type": "child"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "meta": {
+      "events_count": 33
+    }
+  }
+}

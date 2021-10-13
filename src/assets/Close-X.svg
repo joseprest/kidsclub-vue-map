@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Glyphs/Arrow Back</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="request-care-modal" transform="translate(-19.000000, -20.000000)" fill="#A6A6A6" fill-rule="nonzero">
+            <g id="Glyphs/Close-X" transform="translate(17.000000, 18.000000)">
+                <polygon id="Line-5" points="2.59834651 4.01256007 4.01256007 2.59834651 21.4016535 19.9874399 19.9874399 21.4016535"></polygon>
+                <polygon id="Line-5" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) " points="2.59834651 4.01256007 4.01256007 2.59834651 21.4016535 19.9874399 19.9874399 21.4016535"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

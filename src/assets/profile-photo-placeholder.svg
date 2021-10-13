@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>profile-photo-placeholder</title>
+    <desc>Created with Sketch.</desc>
+    <g id="profile-photo-placeholder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#EDEDED" x="0" y="0" width="80" height="80"></rect>
+        <g id="baseline-face-24px" opacity="0.126767113" transform="translate(10.000000, 10.000000)">
+            <g>
+                <path d="M22.5,29.375 C20.775,29.375 19.375,30.775 19.375,32.5 C19.375,34.225 20.775,35.625 22.5,35.625 C24.225,35.625 25.625,34.225 25.625,32.5 C25.625,30.775 24.225,29.375 22.5,29.375 Z M37.5,29.375 C35.775,29.375 34.375,30.775 34.375,32.5 C34.375,34.225 35.775,35.625 37.5,35.625 C39.225,35.625 40.625,34.225 40.625,32.5 C40.625,30.775 39.225,29.375 37.5,29.375 Z M30,5 C16.2,5 5,16.2 5,30 C5,43.8 16.2,55 30,55 C43.8,55 55,43.8 55,30 C55,16.2 43.8,5 30,5 Z M30,50 C18.975,50 10,41.025 10,30 C10,29.275 10.05,28.55 10.125,27.85 C16.025,25.225 20.7,20.4 23.15,14.425 C27.675,20.825 35.125,25 43.55,25 C45.5,25 47.375,24.775 49.175,24.35 C49.7,26.125 50,28.025 50,30 C50,41.025 41.025,50 30,50 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                <polygon id="Path" points="0 0 60 0 60 60 0 60"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

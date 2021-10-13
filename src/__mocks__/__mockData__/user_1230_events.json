@@ -1,0 +1,511 @@
+{
+  "data": {
+    "data": [
+      {
+        "id": "2359",
+        "type": "event",
+        "attributes": {
+          "name": "Baking \u0026 soup 🍜 with Ari",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": true,
+          "activity_names": [
+            "baking"
+          ],
+          "foods": [
+            "mac 'n' cheese 🧀"
+          ],
+          "house_rules": "Please keep voices low",
+          "pet_description": "Alberto the border collie is old and snuggly",
+          "host_id": 1230,
+          "host_avatar": null,
+          "host_first_name": "Ari",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2798583744957",
+          "host_fuzzy_longitude": "-71.7923605922667",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865925/avatars/ari_photo_sxw70e.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865941/avatars/Image_from_iOS_u7dxcz.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865985/avatars/2013-02-09_13.56.09_zzrtjv.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865992/avatars/2012-10-19_13.57.39_pzi6hl.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865999/avatars/2012-06-21_14.44.23_tywfj9.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866006/avatars/2013-01-26_09.29.01_s1va6c.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866012/avatars/2012-11-19_21.47.23_lhpttt.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866024/avatars/2019-01-27_09.18.43_v4c1ui.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866035/avatars/2013-09-28_21.23.05_tsl6be.png"
+          ],
+          "host_languages": [],
+          "host_job_position": "Middle School teacher",
+          "host_employer": "City of Worcester",
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "10161426358710224",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-22T18:56:31.314Z",
+          "host_child_ages": [
+            3
+          ],
+          "host_profile_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.\r\nRoccaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nElit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.",
+          "starts_at": "2019-03-22T18:00:00-04:00",
+          "ends_at": "2019-03-22T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false,
+          "participated": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1230",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2360",
+        "type": "event",
+        "attributes": {
+          "name": "Baking \u0026 soup 🍜 with Ari",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 13,
+          "has_pet": true,
+          "activity_names": [
+            "baking"
+          ],
+          "foods": [
+            "soup 🍜"
+          ],
+          "house_rules": "Please keep voices low",
+          "pet_description": "Alberto the border collie is old and snuggly",
+          "host_id": 1230,
+          "host_avatar": null,
+          "host_first_name": "Ari",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2798583744957",
+          "host_fuzzy_longitude": "-71.7923605922667",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865925/avatars/ari_photo_sxw70e.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865941/avatars/Image_from_iOS_u7dxcz.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865985/avatars/2013-02-09_13.56.09_zzrtjv.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865992/avatars/2012-10-19_13.57.39_pzi6hl.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865999/avatars/2012-06-21_14.44.23_tywfj9.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866006/avatars/2013-01-26_09.29.01_s1va6c.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866012/avatars/2012-11-19_21.47.23_lhpttt.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866024/avatars/2019-01-27_09.18.43_v4c1ui.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866035/avatars/2013-09-28_21.23.05_tsl6be.png"
+          ],
+          "host_languages": [],
+          "host_job_position": "Middle School teacher",
+          "host_employer": "City of Worcester",
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "10161426358710224",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-22T18:56:31.314Z",
+          "host_child_ages": [
+            3
+          ],
+          "host_profile_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.\r\nRoccaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nElit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.",
+          "starts_at": "2019-04-19T18:00:00-04:00",
+          "ends_at": "2019-04-19T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false,
+          "participated": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1230",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2361",
+        "type": "event",
+        "attributes": {
+          "name": "Baking \u0026 soup 🍜 with Ari",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": true,
+          "activity_names": [
+            "baking"
+          ],
+          "foods": [
+            "soup 🍜"
+          ],
+          "house_rules": "Please keep voices low",
+          "pet_description": "Alberto the border collie is old and snuggly",
+          "host_id": 1230,
+          "host_avatar": null,
+          "host_first_name": "Ari",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2798583744957",
+          "host_fuzzy_longitude": "-71.7923605922667",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865925/avatars/ari_photo_sxw70e.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865941/avatars/Image_from_iOS_u7dxcz.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865985/avatars/2013-02-09_13.56.09_zzrtjv.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865992/avatars/2012-10-19_13.57.39_pzi6hl.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865999/avatars/2012-06-21_14.44.23_tywfj9.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866006/avatars/2013-01-26_09.29.01_s1va6c.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866012/avatars/2012-11-19_21.47.23_lhpttt.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866024/avatars/2019-01-27_09.18.43_v4c1ui.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866035/avatars/2013-09-28_21.23.05_tsl6be.png"
+          ],
+          "host_languages": [],
+          "host_job_position": "Middle School teacher",
+          "host_employer": "City of Worcester",
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "10161426358710224",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-22T18:56:31.314Z",
+          "host_child_ages": [
+            3
+          ],
+          "host_profile_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.\r\nRoccaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nElit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.",
+          "starts_at": "2019-05-17T18:00:00-04:00",
+          "ends_at": "2019-05-17T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false,
+          "participated": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1230",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2362",
+        "type": "event",
+        "attributes": {
+          "name": "Baking \u0026 soup 🍜 with Ari",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": true,
+          "activity_names": [
+            "baking"
+          ],
+          "foods": [
+            "soup 🍜"
+          ],
+          "house_rules": "Please keep voices low",
+          "pet_description": "Alberto the border collie is old and snuggly",
+          "host_id": 1230,
+          "host_avatar": null,
+          "host_first_name": "Ari",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2798583744957",
+          "host_fuzzy_longitude": "-71.7923605922667",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865925/avatars/ari_photo_sxw70e.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865941/avatars/Image_from_iOS_u7dxcz.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865985/avatars/2013-02-09_13.56.09_zzrtjv.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865992/avatars/2012-10-19_13.57.39_pzi6hl.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865999/avatars/2012-06-21_14.44.23_tywfj9.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866006/avatars/2013-01-26_09.29.01_s1va6c.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866012/avatars/2012-11-19_21.47.23_lhpttt.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866024/avatars/2019-01-27_09.18.43_v4c1ui.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866035/avatars/2013-09-28_21.23.05_tsl6be.png"
+          ],
+          "host_languages": [],
+          "host_job_position": "Middle School teacher",
+          "host_employer": "City of Worcester",
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "10161426358710224",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-22T18:56:31.314Z",
+          "host_child_ages": [
+            3
+          ],
+          "host_profile_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.\r\nRoccaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nElit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.",
+          "starts_at": "2019-06-14T18:00:00-04:00",
+          "ends_at": "2019-06-14T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false,
+          "participated": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1230",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2363",
+        "type": "event",
+        "attributes": {
+          "name": "Baking \u0026 soup 🍜 with Ari",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": true,
+          "activity_names": [
+            "baking"
+          ],
+          "foods": [
+            "soup 🍜"
+          ],
+          "house_rules": "Please keep voices low",
+          "pet_description": "Alberto the border collie is old and snuggly",
+          "host_id": 1230,
+          "host_avatar": null,
+          "host_first_name": "Ari",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2798583744957",
+          "host_fuzzy_longitude": "-71.7923605922667",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865925/avatars/ari_photo_sxw70e.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865941/avatars/Image_from_iOS_u7dxcz.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865985/avatars/2013-02-09_13.56.09_zzrtjv.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865992/avatars/2012-10-19_13.57.39_pzi6hl.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865999/avatars/2012-06-21_14.44.23_tywfj9.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866006/avatars/2013-01-26_09.29.01_s1va6c.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866012/avatars/2012-11-19_21.47.23_lhpttt.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866024/avatars/2019-01-27_09.18.43_v4c1ui.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866035/avatars/2013-09-28_21.23.05_tsl6be.png"
+          ],
+          "host_languages": [],
+          "host_job_position": "Middle School teacher",
+          "host_employer": "City of Worcester",
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "10161426358710224",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-22T18:56:31.314Z",
+          "host_child_ages": [
+            3
+          ],
+          "host_profile_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.\r\nRoccaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nElit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.",
+          "starts_at": "2019-07-12T18:00:00-04:00",
+          "ends_at": "2019-07-12T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false,
+          "participated": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1230",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      },
+      {
+        "id": "2364",
+        "type": "event",
+        "attributes": {
+          "name": "Baking \u0026 soup 🍜 with Ari",
+          "maximum_children": 2,
+          "child_age_minimum": 2,
+          "child_age_maximum": 11,
+          "has_pet": true,
+          "activity_names": [
+            "baking"
+          ],
+          "foods": [
+            "soup 🍜"
+          ],
+          "house_rules": "Please keep voices low",
+          "pet_description": "Alberto the border collie is old and snuggly",
+          "host_id": 1230,
+          "host_avatar": null,
+          "host_first_name": "Ari",
+          "host_verified": false,
+          "host_fuzzy_latitude": "42.2798583744957",
+          "host_fuzzy_longitude": "-71.7923605922667",
+          "host_locality": "Worcester",
+          "host_sublocality": null,
+          "host_neighborhood": "Biotech Park Area",
+          "host_admin_area_level_1": "Massachusetts",
+          "host_admin_area_level_2": "Worcester County",
+          "host_images": [
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865925/avatars/ari_photo_sxw70e.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865941/avatars/Image_from_iOS_u7dxcz.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865985/avatars/2013-02-09_13.56.09_zzrtjv.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865992/avatars/2012-10-19_13.57.39_pzi6hl.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865999/avatars/2012-06-21_14.44.23_tywfj9.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866006/avatars/2013-01-26_09.29.01_s1va6c.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866012/avatars/2012-11-19_21.47.23_lhpttt.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866024/avatars/2019-01-27_09.18.43_v4c1ui.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866035/avatars/2013-09-28_21.23.05_tsl6be.png"
+          ],
+          "host_languages": [],
+          "host_job_position": "Middle School teacher",
+          "host_employer": "City of Worcester",
+          "host_highest_education": null,
+          "host_school": null,
+          "host_facebook_uid": "10161426358710224",
+          "host_instagram_user": null,
+          "host_twitter_user": null,
+          "host_linkedin_user": null,
+          "host_created_at": "2019-02-22T18:56:31.314Z",
+          "host_child_ages": [
+            3
+          ],
+          "host_profile_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.\r\nRoccaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nElit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.",
+          "starts_at": "2019-08-09T18:00:00-04:00",
+          "ends_at": "2019-08-09T21:00:00-04:00",
+          "participants_count": 0,
+          "full": false,
+          "participated": false
+        },
+        "relationships": {
+          "host": {
+            "data": {
+              "id": "1230",
+              "type": "user"
+            }
+          },
+          "event_hosts": {
+            "data": []
+          },
+          "participants": {
+            "data": []
+          }
+        }
+      }
+    ],
+    "included": [
+      {
+        "id": "1230",
+        "type": "user",
+        "attributes": {
+          "id": 1230,
+          "avatar": null,
+          "first_name": "Ari",
+          "verified": false,
+          "fuzzy_latitude": "42.2798583744957",
+          "fuzzy_longitude": "-71.7923605922667",
+          "locality": "Worcester",
+          "sublocality": null,
+          "neighborhood": "Biotech Park Area",
+          "admin_area_level_1": "Massachusetts",
+          "admin_area_level_2": "Worcester County",
+          "images": [
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865925/avatars/ari_photo_sxw70e.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865941/avatars/Image_from_iOS_u7dxcz.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865985/avatars/2013-02-09_13.56.09_zzrtjv.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865992/avatars/2012-10-19_13.57.39_pzi6hl.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550865999/avatars/2012-06-21_14.44.23_tywfj9.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866006/avatars/2013-01-26_09.29.01_s1va6c.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866012/avatars/2012-11-19_21.47.23_lhpttt.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866024/avatars/2019-01-27_09.18.43_v4c1ui.png",
+            "https://res.cloudinary.com/cottageclass2/image/upload/v1550866035/avatars/2013-09-28_21.23.05_tsl6be.png"
+          ],
+          "languages": [],
+          "job_position": "Middle School teacher",
+          "employer": "City of Worcester",
+          "highest_education": null,
+          "school": null,
+          "facebook_uid": "10161426358710224",
+          "instagram_user": null,
+          "twitter_user": null,
+          "linkedin_user": null,
+          "created_at": "2019-02-22T18:56:31.314Z",
+          "child_ages": [
+            3
+          ],
+          "profile_blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint.\r\nRoccaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n\r\n\r\nElit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint."
+        },
+        "relationships": {
+          "children": {
+            "data": [
+              {
+                "id": "768",
+                "type": "child"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "meta": {
+      "events_count": 6,
+      "pages_count": 1
+    },
+    "links": {
+      "self": "/api/user/created_events/upcoming/page/1/page_size/100"
+    }
+  }
+}

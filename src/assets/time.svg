@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>time</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 12.8333333 0 12.8333333 12.8332167 0 12.8332167"></polygon>
+    </defs>
+    <g id="time" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Glyphs/Time-Outline---purple">
+            <g id="Group-3" stroke-width="1" transform="translate(0.583333, 0.583333)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M6.41666667,11.66655 C3.52216667,11.66655 1.16666667,9.31163333 1.16666667,6.41655 C1.16666667,3.52205 3.52216667,1.16655 6.41666667,1.16655 C9.31116667,1.16655 11.6666667,3.52205 11.6666667,6.41655 C11.6666667,9.31163333 9.31116667,11.66655 6.41666667,11.66655 M6.41666667,-0.000116666667 C2.87291667,-0.000116666667 0,2.8728 0,6.41655 C0,9.9603 2.87291667,12.8332167 6.41666667,12.8332167 C9.96041667,12.8332167 12.8333333,9.9603 12.8333333,6.41655 C12.8333333,2.8728 9.96041667,-0.000116666667 6.41666667,-0.000116666667" id="Fill-1" fill="#64426B" mask="url(#mask-2)"></path>
+            </g>
+            <polygon id="Fill-4" fill="#64426B" points="7.58333333 3.38910833 6.41666667 3.38910833 6.41666667 7.24144167 8.38191667 9.207275 9.20675 8.38244167 7.58333333 6.75844167"></polygon>
+        </g>
+    </g>
+</svg>

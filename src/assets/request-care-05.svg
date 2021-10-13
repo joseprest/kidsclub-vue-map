@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>mvp/icons/request-care-05</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.00044 21.99967 0.00044 21.99967 19.26914 0 19.26914"></polygon>
+        <polygon id="path-3" points="0 0.0003 22 0.0003 22 19.202 0 19.202"></polygon>
+    </defs>
+    <g id="mvp/icons/request-care-05" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(1.000000, 2.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+        </g>
+        <g id="Group-3" transform="translate(1.000000, 2.000000)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M16.248,9.645 C15.701,11.157 14.689,12.102 12.973,13.33 C11.256,14.558 11,14.752 11,14.752 C11,14.752 10.744,14.558 9.027,13.33 C7.31,12.102 6.299,11.157 5.752,9.645 C5.156,7.997 5.807,6.062 7.524,5.562 C9.576,4.967 11,6.437 11,8.168 C11,6.437 12.424,4.967 14.476,5.562 C16.193,6.062 16.844,7.997 16.248,9.645 M11.005,0 C4.936,0 0,4.307 0,9.601 C0,11.668 0.783,13.716 2.207,15.369 L2.494,15.701 L2.31,16.101 C1.93,16.926 1.375,17.58 0.664,18.043 C0.584,18.095 0.551,18.174 0.57,18.262 C0.589,18.346 0.651,18.402 0.737,18.414 C1.06,18.46 1.4,18.483 1.752,18.483 C2.82,18.483 3.793,18.256 4.643,17.807 L4.966,17.636 L5.288,17.808 C7.007,18.72 8.98,19.202 10.995,19.202 C17.063,19.202 22,14.895 22,9.601 C22,4.307 17.067,0 11.005,0" id="Fill-1" fill="#FFFFFF" mask="url(#mask-4)"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>mvp/icons/tag-24-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 13 0 13 13 0 13"></polygon>
+    </defs>
+    <g id="mvp/icons/tag-24-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#E5E5E5" cx="12" cy="12" r="12"></circle>
+        <g id="Group-3" transform="translate(5.000000, 6.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M10.4402563,3.46177997 C9.87833422,3.46177997 9.42302189,3.00642874 9.42302189,2.44334807 C9.42302189,1.88137801 9.87833422,1.42602678 10.4402563,1.42602678 C11.0032888,1.42602678 11.4586012,1.88137801 11.4586012,2.44334807 C11.4586012,3.00642874 11.0032888,3.46177997 10.4402563,3.46177997 M12.2870475,0 L7.53403097,0 C7.34413241,0 7.16311799,0.0755216676 7.02985585,0.208795199 L0.209054992,7.02906815 C-0.0696849973,7.30783196 -0.0696849973,7.75985135 0.209054992,8.03861515 L4.96207154,12.7909271 C5.23970101,13.069691 5.69279231,13.069691 5.9715323,12.7909271 L12.7901121,5.97065419 C12.9244848,5.83738066 13,5.65524017 13,5.466436 L13,0.713013391 C13,0.318745862 12.6801708,0 12.2870475,0" id="Fill-1" fill="#A6A6A6" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,70 @@
+{
+  "data": {
+    "data": {
+      "id": "1281",
+      "type": "user",
+      "attributes": {
+        "id": 1281,
+        "avatar": null,
+        "first_name": "Ari",
+        "verified": false,
+        "fuzzy_latitude": "42.2808764026748",
+        "fuzzy_longitude": "-71.7877901573401",
+        "locality": "Worcester",
+        "sublocality": null,
+        "neighborhood": "Biotech Park Area",
+        "admin_area_level_1": "Massachusetts",
+        "admin_area_level_2": "Worcester County",
+        "images": [
+          "https://res.cloudinary.com/cottageclass2/image/upload/v1551461399/avatars/ari_photo_pxvgsn.png"
+        ],
+        "languages": [
+          "en",
+          "it",
+          "es"
+        ],
+        "job_position": "coder",
+        "employer": "KidsClub!!!!",
+        "highest_education": null,
+        "school": null,
+        "facebook_uid": "10161426358710224",
+        "instagram_user": null,
+        "twitter_user": null,
+        "linkedin_user": null,
+        "created_at": "2019-03-01T17:28:37.921Z",
+        "child_ages": [
+          6
+        ],
+        "profile_blurb": "I was born outside of boston and now i live in nyc"
+      },
+      "relationships": {
+        "children": {
+          "data": [
+            {
+              "id": "803",
+              "type": "child"
+            }
+          ]
+        }
+      }
+    },
+    "included": [
+      {
+        "id": "803",
+        "type": "child",
+        "attributes": {
+          "parent_id": 1281,
+          "age": 6
+        },
+        "relationships": {
+          "parent": {
+            "data": {
+              "id": "1281",
+              "type": "user"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

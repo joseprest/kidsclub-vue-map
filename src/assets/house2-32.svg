@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>mvp/icons/house2-32</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.0002 32 0.0002 32 32 0 32"></polygon>
+    </defs>
+    <g id="mvp/icons/house2-32" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-8">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M32,16.0002 C32,24.8362 24.837,32.0002 16,32.0002 C7.163,32.0002 0,24.8362 0,16.0002 C0,7.1632 7.163,0.0002 16,0.0002 C24.837,0.0002 32,7.1632 32,16.0002" id="Fill-1" fill="#E82D55" mask="url(#mask-2)"></path>
+            </g>
+            <polygon id="Fill-4" fill="#FFAEB6" points="8.835 14.3791 8.835 23.7691 14.59 23.7691 14.59 18.7731 17.51 18.7731 17.51 23.7691 23.165 23.7691 23.165 14.3791 16 8.5201"></polygon>
+            <path d="M25.5215,13.7824 L16.0005,5.9974 L6.4785,13.7824 C6.2645,13.9574 6.2325,14.2734 6.4085,14.4884 C6.5845,14.7034 6.8995,14.7344 7.1145,14.5584 L16.0005,7.2944 L24.8855,14.5584 C24.9785,14.6364 25.0915,14.6724 25.2035,14.6724 C25.3485,14.6724 25.4935,14.6094 25.5915,14.4884 C25.7675,14.2734 25.7355,13.9574 25.5215,13.7824" id="Fill-6" fill="#FFAEB6"></path>
+        </g>
+    </g>
+</svg>

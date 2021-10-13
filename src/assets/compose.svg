@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>mvp/icons/compose</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.0002 0.4903 19.365 0.4903 19.365 20 0.0002 20"></polygon>
+    </defs>
+    <g id="mvp/icons/compose" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-8" transform="translate(2.000000, 1.500000)">
+            <g id="Group-3" transform="translate(0.000000, 0.509800)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M17.3652,7.5513 L17.3652,15.4083 C17.3652,16.8373 16.2162,18.0003 14.8032,18.0003 L4.5622,18.0003 C3.1492,18.0003 2.0002,16.8373 2.0002,15.4083 L2.0002,5.0823 C2.0002,3.6533 3.1492,2.4903 4.5622,2.4903 L12.3542,2.4903 L12.3542,0.4903 L4.5622,0.4903 C2.0472,0.4903 0.0002,2.5503 0.0002,5.0823 L0.0002,15.4083 C0.0002,17.9403 2.0472,20.0003 4.5622,20.0003 L14.8032,20.0003 C17.3192,20.0003 19.3652,17.9403 19.3652,15.4083 L19.3652,7.5513 L17.3652,7.5513 Z" id="Fill-1" fill="#000000" mask="url(#mask-2)"></path>
+            </g>
+            <polygon id="Fill-4" fill="#000000" points="18.9053 4.2266 16.2443 1.5656 14.4803 3.3296 17.1413 5.9896"></polygon>
+            <polygon id="Fill-6" fill="#000000" points="5.501 12.3081 4.961 15.5091 8.162 14.9691 16.192 6.9391 13.531 4.2781"></polygon>
+        </g>
+    </g>
+</svg>

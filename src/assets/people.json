@@ -1,0 +1,2908 @@
+[
+  { 
+    "id": 1,
+    "networks": ["flatbushfamilies", "demo"],
+    "name": "Marixsa", 
+    "lastInitial": "R",
+    "pic": "avatar-MarixsaR.png",
+    "images": ["marixsa-0.jpg", "marixsa-1.jpg", "marixsa-7.jpg", "marixsa-4.jpg", "marixsa-2.jpg", "marixsa-5.jpg", "marixsa-3.jpg"],
+    "phone": "212-920-4828",
+    "availability": ["7to3", "3to7", "weekends"],
+    "location": {"lat": 40.642485, "lng": -73.944122},
+    "activities":["spanish", "art", "music", "sports"],
+    "job": {"title" : "Educator", "employer": "Tambor Playgroup"},
+    "backgroundCheck": true,
+    "children": 
+    [
+    { 
+      "name": "Tenoch",
+      "age": 9,
+      "birthday": "11/25/2008",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    },
+    { 
+      "name": "Taina",
+      "age": 7,
+      "birthday": "6/10/2011",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    },
+    {
+      "name": "Tristan",
+      "age": 1,
+      "birthday": "6/29/2017",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ],
+  "reviews": [
+    {
+      "userId": 4,
+      "text": "Marixsa is the best! My little guy attended Tambor for 6 months and got to the point where he would skip ahead of us and shut the door in our faces when he got there - he couldn't wait to play with his friends! She's attentive, creative, knows when to be hands-on and when to encourage independence. We love and trust her completely."
+    },
+    {
+      "name": "Nicole",
+      "lastInitial": "M",
+      "text": "Marixsa leads Tambor with an incredible energy. She seems to know the perfect way to engage each child and help that child learn and grow. She is a gem and has created a fantastic program. Tambor is fun, interesting,and educational, and I'm so thrilled that our little one is part of it."
+    },
+  { 
+    "name": "Meghan", 
+    "lastInitial": "C",
+    "text": "We are so lucky we found Tambor! Our little guy loved his time there this past spring (2018). And no wonder.... Marixsa has a warm, mama bear energy with a true gift for early childhood education. Her home is super kid-focused and filled with art, music and lots of play! We've just loved everything about our experience with Marixsa - highly recommend!!"
+  },
+  { 
+    "name": "Nobella", 
+    "lastInitial": "P",
+    "text": "Marixsa is an awesome educator! She puts thought and care into each lesson plan. She connects with each child and has a special way of encouraging then to function as individuals. I highly recommend her classes for your little one!"
+  },
+  { 
+    "name": "Abby", 
+    "lastInitial": "B",
+    "text": "Marixsa has a wonderful thing going on at her home-based Spanish Immersion playgroup. My 4-year old has been attending Tambor this year, and he has such a fun time with Marixsa and the kids in the group. We do not speak or teach Spanish at home, but when he goes to Marixsa's, he easily slides into the routine of Spanish. Her home is set up in such a child-friendly way, she makes food for the kids, and she works diligently to plan music, art, and physical activities that are age appropriate. Marixsa is also extremely trustworthy and responsible - she takes this job seriously and is a mom of 3. It's so clear that she is meant to be in early childhood education! Her warmth and her demeanor and patience make for a wonderful teacher. All of these wonderful things at a very reasonable price make this little playgroup a gem!"
+  },
+  { 
+    "name": "Susannah", 
+    "lastInitial": "M",
+          "text": "My daughter loved her time with Marixsa. My husband’s family is Venezuelan, and we want to raise our daughter bilingual, but I don’t speak Spanish, and I’m the one who spends most of the day with her. Enter Marixsa! Her warmth made my little one comfortable right away, and her creativity and sense of wonder kept her captivated all day. Instruments! Books! Exploring in the back garden! I highly recommend Marixsa’s program."
+  },
+  { 
+    "name": "Marie", 
+    "lastInitial": "S",
+          "text": "Marixsa is an authentically warm, nurturing, earthmother-like person. Children feel very comfortable in her presence. She's committed to building community and using education to do it."
+  },
+  { 
+    "name": "Natalia", 
+    "lastInitial": "G",
+          "text": "My two boys, ages 3 and almost 5 had a wonderful time at Marixsa's summer camp! We recently relocated to Brooklyn after living in Cusco, Peru and we had been looking for a school that resembled my waldorf/montessori inspired preschool over there, that my son loved. And we found it with Marixsa! A nurturing, creative and child centered discovery space with outdoors time to play with the earth and the water and in Spanish!! Our dream came true this summer and my boys would wake up every morning excited to go to the Taino school (that is how we named it)! Marixsa brings together her soul and love for the ways she believes her own children should learn, her roots and her professional teaching knowledge in the perfect inspiring way."
+  },
+  { 
+    "name": "Jessica", 
+    "lastInitial": "D",
+          "text": "My son had the fortunate experience of taking part in Marixsa's Spanish summer camp the very first summer she opened her home. Each day was filled with playful learning that was responsive to each child's needs. They spent lots meaningful time outdoors, learning in constructive ways. I highly recommend Marixsa as a director, teacher and overall amazing person. You will not be disappointed if you choose to send your child to her program."
+  },
+  { 
+    "name": "Ourania", 
+    "lastInitial": "A",
+    "text": "I experience Mrs. Marixsa with her own and other children every day for the last year. As a certified Waldorf teacher and a mother myself, it is such a pleasing experience to witness her professionalism and art inner devotion during the interaction with children. She is guiding the children firmly, always with respect and warmth. There is always a positive and secure atmosphere within the groups, where elder children (up to 10years) show smaller children what they have discovered (f.i.). She gives children the space to develop socially, emotionally and at the same time manages amazingly that children of different age groups can be harmoniously together and/or explore age appropriately on their own. I know, my daughter (4yrs.) loves Mrs. Marixsa and her classes."
+  },
+  { 
+    "name": "Eisa", 
+    "lastInitial": "R",
+    "text": "I am happy to recommend Marixsa Rodriguez and her home-based summer program. I am the Founder and Director of Camp Fort Greene and a former classroom teacher with a master's degree from Teachers College, Columbia University. I have known Marixsa for 8 years, as our sons have grown up together here in Brooklyn. I first met Marixsa at the Clinton Hill Library, where we attended Mommy and Me classes led by a local librarian. Back then we joined forces with another mom who also has a master's degree in education, and the three of us developed a co-op program for our toddlers to experience rich opportunities for social, emotional, and cognitive development. We wanted to prepare our little ones for big kid school, so we added in circle time and clean-up time, and we wanted to provide age-appropriate activities, so we built in one simple craft project, time for singing with simple instruments, a story, and free play. We found a location in Bedford Stuyvesant and enjoyed a fun year together. While this once a week co-op program was taking place, we continued to get together in each other's homes for play-dates. Marixsa always contributed fun, age-appropriate craft activities, music, and Spanish language and culture to our experiences. She is gifted in her ability to design and make clothes, bags, and decorative items for children and adults, and she makes great use of found materials; Marixsa brings this talent to her work with children, encouraging them to design and make beautiful objects that are often also useful. She understands the importance of gentle music in little ones' lives, and her ability to sing while playing with percussive instruments designed for young people encourages their own inner musicianship and develops counting skills. She is bi-lingual, so she does more than count to ten in Spanish with children. Marixsa feels very strongly that young people learning the language should be able to talk about their use of a magnifying glass or the way a bird spreads its wings in Spanish. While she recognizes the value of basic conversational language learning, she provides opportunities for children to really develop a stronger Spanish language proficiency across the curriculum in areas like science and math. A dedicated learner herself, Marixsa studied scholarly books on Waldorf and Montessori. Over the years, she has never lost the opportunity to take advantage of a learning moment while encouraging fun and creativity. For example, instead of hiring a clown or magician for her son's birthdays, Marixsa would work with him to come up with a theme, make decorations for their home, and prepare fun activities for the birthday boy and all his guests to share together. Marixsa has a terrific affinity for the natural world and has developed that love in her own New York City children. They garden, compost, and explore all the wild wonders in our urban habitat. In her light-filled, warm, welcoming home, you will find intentional and natural objects in place to encourage age-appropriate explorations. She is a bright, beautiful, kind person who cares deeply about children. I recommend her and her program with great enthusiasm."
+  },
+  { 
+    "name": "Liz", 
+    "lastInitial": "H",
+    "text": "Marixsa is an open hearted, loving, creative, mother and amazing with children!!! If I still lived in Brooklyn (We moved to Canada.) I would definately send my daughter to Marixsa's Camp. Two years ago, we formed a Daycare Co-op at Marixsa's home with six children and Marixsa generously provided her home and even though we hired a child care worker, Marixsa was always doing creative projects and volunteering her time with the children. Marixsa is fully bilingual and my daughter now speaks some Spanish. Marixsa's children are amazing and my daughter became close to Taina and the girls have a bond forever. I am super picky about who I leave my children with in terms of a loving safe space but Marixsa is one of the best! Marixsa would never punish a child or treat them in any way except love and respect. Any family would be lucky to know Marixsa and her family!"
+  }
+  ]
+  },
+  
+    { 
+    "id": 2,
+    "networks": ["flatbushfamilies", "demo"],
+    "name": "Manisha",  
+    "lastInitial": "S",
+    "pic": "avatar-ManishaS.png",
+    "phone": "646-623-4802‬",
+    "availability": ["3to7", "after7", "weekends"],
+    "location": {"lat": 40.680316, "lng": -73.974780},
+    "job": {"title": "Co-founder", "employer": "CottageClass"},
+    "activities":["french"],
+    "images": ["manisha-4.jpg", "manisha-6.jpg", "manisha-7.jpg", "manisha-1.jpg", "manisha-3.jpg", "manisha-5.jpg"],
+    "backgroundCheck": true,
+    "emergencyContacts": [
+        {
+          "name": "Giseli Vasconcelos",
+          "relationship": "mother",
+          "phone": "617-544-7354"
+        },
+        {
+          "name": "Tiffiniy Cheng",
+          "relationship": "friend",
+          "phone": "413-367-6255"
+        },
+        {
+          "name": "Janet Snoyer",
+          "relationship": "mother",
+          "phone": "607-279-1964"
+        }
+       ],
+    "doctors": [
+      {
+       "name": "Le Quang",
+       "phone": "508-796-5661"
+      },
+      {
+      "name": "Jane Doe",
+      "phone": "508-555-1212"
+      }
+   ],
+    "children": []
+  },
+  { 
+    "id": 3,
+    "networks": ["flatbushfamilies"],
+    "name": "Donna", 
+    "lastInitial": "M",
+    "pic": "avatar-DonnaM.png",
+    "images": ["DonnaM-1.jpg", "DonnaM-2.jpg", "DonnaM-3.jpg", "DonnaM-4.jpg", "DonnaM-5.jpg", "DonnaM-6.jpg"],
+    "phone": "929-360-3245",
+    "availability": ["7to3", "3to7", "weekends"],
+    "location": {"lat": 40.652256, "lng": -73.956582},
+    "activities":["arts & crafts"],
+    "job": {"title" : "Digital Content Producer", "employer": "Columbia University"},
+    "children": 
+    [
+    { 
+      "name": "Nina",
+      "age": 6,
+      "birthday": "04/17/2012",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    },
+    { 
+      "name": "Reed",
+      "age": 1,
+      "birthday": "09/27/2016",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+    { 
+    "id": 4,
+    "name": "Holly",
+    "networks": ["flatbushfamilies"],
+    "lastInitial": "S",
+    "pic": ["avatar-HollyS.png"],
+    "images": ["HollyS-1.jpg", "HollyS-2.jpg", "HollyS-3.jpg", "HollyS-4.jpg"],
+    "phone": "646-228-3419",
+    "availability": ["7to3"],
+    "location": {"lat": 40.640652, "lng": -73.943440},
+    "activities":["volunteering", "arts & crafts"],
+    "job": {"title" : "Film and Video Producer", "employer": "Freelance"},
+    "children": 
+    [
+    { 
+      "name": "Holter",
+      "age": 1,
+      "birthday": "09/21/2016",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+  { 
+    "id": 5,
+    "networks": ["flatbushfamilies"],
+    "name": "Sara", 
+    "lastInitial": "C",
+    "pic": "avatar-SaraC.png",
+    "images": ["SaraC-1.jpg", "SaraC-2.jpg", "SaraC-3.jpg", "SaraC-4.jpg", "SaraC-5.jpg", "SaraC-6.jpg"],
+    "phone": "310-869-1687",
+    "availability": ["after7", "weekends"],
+    "location": {"lat": 40.646183, "lng": -73.943512},
+    "activities":["cooking"],
+    "job": {"title" : "Writer and Editor", "employer": "Sara Grace Editorial"},
+    "children": 
+    [
+    { 
+      "name": "Mia",
+      "age": 3,
+      "birthday": "12/10/2014",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+  { 
+    "id": 6,
+    "networks": ["flatbushfamilies"],
+    "name": "Rachel", 
+    "lastInitial": "C",
+    "pic": "avatar-RachelC.png",
+    "images": ["RachelC-1.jpg", "RachelC-2.jpg", "RachelC-3.jpg", "RachelC-4.jpg", "RachelC-5.jpg", "RachelC-6.jpg", "RachelC-7.jpg"],
+    "phone": "347-489-2204",
+    "availability": ["3to7", "7to3", "weekends", "after7"],
+    "location": {"lat": 40.687043, "lng": -73.935099},
+    "activities":["book club", "arts & crafts", "music"],
+    "job": {"title" : "Adjunct Faculty", "employer": "Argosy University"},
+    "children": 
+    [
+    { 
+      "name": "Audrey",
+      "age": 2,
+      "birthday": "06/02/2016",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+  { 
+    "id": 7,
+    "networks": ["flatbushfamilies"],
+    "name": "Jill", 
+    "lastInitial": "A",
+    "pic": "avatar-JillA.png",
+    "images": ["JillA-1.jpg", "JillA-2.jpg", "JillA-4.jpg", "JillA-5.jpg", "JillA-6.jpg"],
+    "phone": "646-523-0540",
+    "availability": ["weekends"],
+    "location": {"lat": 40.652256, "lng": -73.956582},
+    "activities":["outdoor adventure"],
+    "job": {"title" : "Prop Master in TV and Film", "employer": "Self-Employed"},
+    "children": 
+    [
+    { 
+      "name": "Wren",
+      "age": 8,
+      "birthday": "09/02/2010",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+   { 
+    "id": 8,
+    "networks": ["flatbushfamilies"],
+    "name": "Sari", 
+    "lastInitial": "G",
+    "pic": "avatar-placeholder.png",
+    "images": [],
+    "phone": "646-737-4382",
+    "availability": ["3to7", "weekends"],
+    "location": {"lat": 40.722274, "lng": -73.945048},
+    "activities":["cooking"],
+    "job": {"title" : "", "employer": ""},
+    "children": 
+    [
+    { 
+      "name": "Sai",
+      "age": 4,
+      "birthday": "08/02/2014",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+  { 
+    "id": 9,
+    "networks": ["flatbushfamilies", "BoCoCaGo"],
+    "name": "Fayre", 
+    "lastInitial": "M",
+    "pic": "avatar-FayreM.png",
+    "images": ["FayreM-1.jpg", "FayreM-2.jpg", "FayreM-3.jpg", "FayreM-4.jpg", "FayreM-5.jpg", "FayreM-6.jpg"],
+    "phone": "917-612-6432",
+    "availability": ["3to7", "7to3", "weekends"],
+    "location": {"lat": 40.677184, "lng": -73.974447},
+    "activities":["book club", "field trips"],
+    "job": {"title" : "Editor", "employer": "Self-employed"},
+    "children": 
+    [
+    { 
+      "name":"Taj",
+      "age": 5,
+      "birthday": "07/29/2013",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    },
+    { 
+      "name":"Noor",
+      "age": 3,
+      "birthday": "05/05/2015",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+  { 
+    "id": 10,
+    "networks": ["flatbushfamilies", "BoCoCaGo"],
+    "name": "CJ", 
+    "lastInitial": "W",
+    "pic": "avatar-placeholder.png",
+    "images": [],
+    "phone": "646-522-6889",
+    "availability": ["after7"],
+    "location": {"lat": 40.652603, "lng": -73.980889},
+    "activities":["arts & crafts"],
+    "job": {"title" : "Vice President", "employer": "New York Center for Child Development"},
+    "children": 
+    [
+    { 
+      "name":"Finn",
+      "age": 5,
+      "birthday": "12/12/2012",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    },
+    { 
+      "name":"Hildy",
+      "age": 3,
+      "birthday": "07/12/2015",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+    { 
+    "id": 11,
+    "networks": ["flatbushfamilies", "BoCoCaGo"],
+    "name": "Caitlin", 
+    "lastInitial": "D",
+    "pic": "avatar-CaitlinD.png",
+    "images": ["CaitlinD-1.jpg", "CaitlinD-2.jpg", "CaitlinD-3.jpg", "CaitlinD-4.jpg", "CaitlinD-5.jpg"],
+    "phone": "207-712-9763",
+    "availability": ["after7", "weekends"],
+    "location": {"lat": 40.657351, "lng": -73.955993},
+    "activities":["field trips"],
+    "job": {"title" : "Freelance editor & writer", "employer": "Various"},
+    "children": 
+    [
+    { 
+      "name":"Sebastian",
+      "age": 10,
+      "birthday": "04/11/2008",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    },
+    { 
+      "name":"Ivan",
+      "age": 9,
+      "birthday": "10/05/2008",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+  { 
+    "id": 12,
+    "networks": ["flatbushfamilies"],
+    "name": "Marianna",
+    "lastInitial": "A",
+    "pic": "avatar-MariannaA.png",
+    "images": ["MariannaA-1.jpg", "MariannaA-2.jpg", "MariannaA-3.jpg", "MariannaA-4.jpg", "MariannaA-5.jpg", "MariannaA-6.jpg"],
+    "phone": "646-957-6809",
+    "availability": [""],
+    "location": {"lat": 40.631852, "lng": -73.944411},
+    "activities":["book club"],
+    "job": {"title" : "", "employer": ""},
+    "children": 
+    [
+    { 
+      "name":"Yeva",
+      "age": 1,
+      "birthday": "04/20/2017",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+  { 
+    "id": 14,
+    "networks": ["flatbushfamilies"],
+    "name": "Julia",
+    "lastInitial": "K",
+    "pic": "avatar-JuliaK.png",
+    "images": ["JuliaK-1.jpeg"],
+    "phone": "914-589-6491",
+    "availability": ["weekends"],
+    "location": {"lat": 40.650778, "lng": -73.961347},
+    "activities":[""],
+    "blurb": "I work for the city, am married to another city employee, and we are about to have our second kid. We’ve lived in the neighborhood for about 3 years and in Brooklyn for about 7.",
+    "job": {"title" : "Director", "employer": "City of New York"},
+    "children": 
+    [
+    { 
+      "name":"Lucy",
+      "age": 1,
+      "birthday": "10/10/2016",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+  { 
+    "id": 15,
+    "networks": ["flatbushfamilies"],
+    "name": "Marie",
+    "lastInitial": "F",
+    "pic": "avatar-MarieF.png",
+    "images": ["MarieF-1.jpeg"],
+    "phone": "718-938-6257",
+    "availability": ["7to3", "after7", "weekends"],
+    "location": {"lat": 40.645530, "lng": -73.958760},
+    "activities":["arts & crafts", "playing outside", "homework help", "yoga", "cooking"],
+    "blurb": "I’m a preschool teacher, costume designer, actor, writer, and artist. I’m a new parent and I’m doing it by myself! Also a huge cat lover.",
+    "job": {"title" : "Teacher", "employer": "Brooklyn FreeSpace"},
+    "children": 
+    [
+    { 
+      "name":"Ja'Kaela",
+      "age": 1,
+      "birthday": "10/13/2017",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+  { 
+    "id": 16,
+    "networks": ["flatbushfamilies"],
+    "name": "Eileen",
+    "lastInitial": "M",
+    "pic": "avatar-EileenM.png",
+    "images": ["EileenM-1.jpeg", "EileenM-2.jpeg", "EileenM-3.jpeg", "EileenM-4.jpeg", "EileenM-5.jpeg"],
+    "phone": "678-763-3311",
+    "availability": ["after7", "weekends"],
+    "location": {"lat": 40.642360, "lng": -73.962420},
+    "activities":["arts & crafts", "cooking", "music", "book club", "playing outside", "sports and recreation"],
+    "blurb": "I am the director of operations at a digital marketing agency and I run a non-profit. I have two sweet boys who are full of energy. We love playgrounds, libraries, and exploring.",
+    "job": {"title" : "Director of Operations", "employer": "Situation"},
+    "children": 
+    [
+    { 
+      "name":"Declan",
+      "age": 3,
+      "birthday": "02/17/2015",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    },
+    { 
+      "name":"Teddy",
+      "age": 1,
+      "birthday": "02/17/2018",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+  { 
+    "id": 17,
+    "networks": ["flatbushfamilies"],
+    "name": "Katya",
+    "lastInitial": "S",
+    "pic": "avatar-placeholder.png",
+    "images": [],
+    "phone": "347-453-5611",
+    "availability": [],
+    "location": {},
+    "activities":[],
+    "blurb": "I'm a children's librarian and an expecting mom.",
+    "job": {"title" : "Senior Children's Librarian", "employer": "Brooklyn Public Library"},
+    "children": 
+    [
+  ]
+  },
+   { 
+    "id": 18,
+    "networks": ["flatbushfamilies"],
+    "name": "Donnette",
+    "lastInitial": "W",
+    "pic": "avatar-placeholder.png",
+    "images": [],
+    "phone": "917-653-0167",
+    "availability": ["7to3", "3to7", "after7", "weekends"],
+    "location": {},
+    "activities":[],
+    "blurb": "I am a college student that lives in the Flatbush area with my family for over 14 years.",
+    "job": {"title" : "Student", "employer": ""},
+    "children": 
+    [
+  ]
+  },
+  { 
+    "id": 19,
+    "networks": ["BoCoCaGo"],
+    "name": "Stephanie",
+    "lastInitial": "R",
+    "pic": "avatar-StephanieR.png",
+    "images": ["StephanieR-1.jpg", "StephanieR-2.jpg", "StephanieR-3.jpg", "StephanieR-4.jpg"],
+    "phone": "202-744-1716",
+    "availability": ["after7", "weekends"],
+    "location": {"lat": 40.688758, "lng": -73.985117},
+    "activities":["playing outside"],
+    "blurb": "",
+    "job": {"title" : "Director of Strategy and Audience", "employer": "FiveThirtyEight"},
+    "children": 
+    [
+      { 
+      "name":"Casey",
+      "age": 1,
+      "birthday": "10/25/2017",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+    { 
+    "id": 20,
+    "networks": ["BoCoCaGo"],
+    "name": "Jessica",
+    "lastInitial": "V",
+    "pic": "avatar-JessicaV.png",
+    "images": ["JessicaV-1.jpg"],
+    "phone": "347-822-3387",
+    "availability": ["7to3", "weekends"],
+    "location": {"lat": 40.6776569, "lng": -74.0031373},
+    "activities":["sports and recreation", "cooking", "arts & crafts", "playing outside", "video games"],
+    "blurb": "Hello my name is Jessica and I'm a mom of a 9 year old daughter as well as a nanny of over 15 years experience with excellent references and CPR and First Aid certification.",
+    "job": {"title" : "Stay-at-home Mom/Nanny", "employer": ""},
+    "children": 
+    [
+      { 
+      "name":"Jeylani",
+      "age": 9,
+      "birthday": "05/28/2009",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+     { 
+    "id": 21,
+    "networks": ["BoCoCaGo"],
+    "name": "Aastha",
+    "lastInitial": "M",
+    "pic": "avatar-AasthaM.png",
+    "images": ["AasthaM-1.jpg"],
+    "phone": "847-804-1197",
+    "availability": ["after7", "weekends"],
+    "location": {"lat": 40.6950707, "lng": -73.9835309},
+    "activities":["bilingual immersion", "arts & crafts", "playing outside"],
+    "blurb": "I’m a Brooklyn Mama who works in philanthropy. On weekends i love to bake and hang out w my two year old.",
+    "job": {"title" : "Program Manager", "employer": "NEO Philanthropy"},
+    "children": 
+    [
+      { 
+      "name":"Kaavya",
+      "age": 2,
+      "birthday": "04/26/2016",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+   { 
+    "id": 22,
+    "networks": ["BoCoCaGo"],
+    "name": "Tish",
+    "lastInitial": "K",
+    "pic": "avatar-TishK.png",
+    "images": ["TishK-1.jpeg", "TishK-2.jpg", "TishK-3.jpg", "TishK-4.jpg", "TishK-5.jpg"],
+    "phone": "713-295-0180",
+    "availability": ["after7", "weekends"],
+    "location": {"lat": 40.6902039, "lng": -73.9902112},
+    "activities":["playing outside", "yoga", "cooking"],
+    "blurb":"",
+    "job": {"title" : "Senior Valuation Specialist", "employer": "Colliers International"},
+    "children": 
+    [
+      { 
+      "name":"Edina",
+      "age": 1,
+      "birthday": "11/11/2017",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+   { 
+    "id": 23,
+    "networks": ["flatbushfamilies"],
+    "name": "Lori",
+    "lastInitial": "H",
+    "pic": "avatar-LoriH.png",
+    "images": ["LoriH-1.jpeg", "LoriH-2.jpg", "LoriH-3.jpg"],
+    "phone": "917-941-8009",
+    "availability": ["after7", "weekends"],
+    "location": {"lat": 40.6327175, "lng": -73.9644302},
+    "activities":["playing outside", "homework help", "science", "cooking"],
+    "blurb": "I’m an environmental health scientist who has been working in public health for over 20 years. I have two boys, ages 13 and 7. I truly believe ‘it takes a village’!",
+    "job": {"title" : "Assistant Professor", "employer": "SUNY Downstate"},
+    "children": 
+    [
+      { 
+      "name":"Aidan",
+      "age": 13,
+      "birthday": "09/07/2005",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    },
+    { 
+      "name":"Kyle",
+      "age": 7,
+      "birthday": "09/27/2011",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+ {
+    "id": 7705970088,
+    "networks": ["flatbushfamilies"],
+    "name": "Tiffany",
+    "lastInitial": "D",
+    "pic": "avatar-TiffanyDavis.png",
+    "images": ["TiffanyDavis-1.jpg"],
+    "phone": "770-597-0088",
+    "availability": ["after7"],
+    "location": {"lat": 40.671593, "lng": -73.96199},
+    "activities":["bilingual immersion", "field trips", "playing outside", "sports and recreation"],
+    "job": {"title" : "Cofounder / Content Director", "employer": "Context & Co."},
+    "children":
+    [
+    {
+      "name":"Avery",
+      "age": 1,
+      "birthday": "11/3/2017",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+
+  {
+    "id": 6023345579,
+    "networks": ["prospectleffertsparents"],
+    "name": "Lilach",
+    "lastInitial": "S",
+    "pic": "avatar-LilachShafir.png",
+    "images": ["LilachShafir-1.jpg"],
+    "phone": "602-334-5579",
+    "availability": ["after7", "9to3"],
+    "location": {"lat": 40.6617556, "lng": -73.9538533},
+    "activities":["bilingual immersion", "cooking", "playing outside"],
+    "blurb": "I'm a non-profit worker, mother, social justice fighter, cyclist, runner and walker.",
+    "job": {"title" : "Direction, International Education", "employer": "AJWS"},
+    "children":
+    [
+    {
+      "name":"Eliana (Ellie)",
+      "age": 0,
+      "birthday": "08/10/2018",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+  {
+    "id": 7863565152,
+    "networks": ["bedstuyparents"],
+    "name": "Sarah",
+    "lastInitial": "A",
+    "pic": "avatar-SarahAngarita.png",
+    "images": ["SarahAngarita-1.jpg", "SarahAngarita-3.jpeg", "SarahAngarita-4.jpeg", "SarahAngarita-5.jpeg"],
+    "phone": "786-356-5152",
+    "availability": ["after7", "weekends"],
+    "location": {"lat": 40.7047738, "lng": -73.944049},
+    "activities":["bilingual immersion", "field trips", "homework help", "playing outside"],
+    "blurb": "Hi, I am a local ER Doc and my Husband is an accountant. We are new parents to boy and our little tri-lingual family loves food, the park... and food.",
+    "job": {"title" : "Resident Physician", "employer": "Kings County Hospital"},
+    "children":
+    [
+    {
+      "name":"Favian",
+      "age": 0,
+      "birthday": "",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+    ]
+  },
+   {
+    "id": 7324255999,
+    "networks": ["greenpointwilliamsburgmommies"],
+    "name": "Catherine",
+    "lastInitial": "B",
+    "pic": "avatar-CatherineBagner.png",
+    "images": ["CatherineBagner-1.jpg"],
+    "phone": "732-425-5999",
+    "availability": ["after7", "weekends"],
+    "location": {"lat": 40.7043156, "lng": -73.9234745},
+    "activities":["arts & crafts", "book club", "cooking", "homework help", "playing outside"],
+    "blurb": "I am a single by choice mother who works in the accounting field.  My 8 year old is in 3rd Grade at PS34 and goes to afterschool on Lorimer St. by Mccarren Park. I also have a 22 month old son who is loads of fun.  I am always busy taking my 8 year old to activities.",
+    "job": {"title" : "Accountant", "employer": "Accounting"},
+    "children":
+    [
+    {
+      "name":"Jacob",
+      "age": 8,
+      "birthday": "01/11/2010",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    },
+    {
+      "name":"Ethan",
+      "age": 1,
+      "birthday": "11/12/2016",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+
+
+  {
+    "id": 9292817010,
+    "networks": ["brooklynappleacademy"],
+    "name": "Amanda",
+    "lastInitial": "V",
+    "pic": "avatar-AmandaVeliz.png",
+    "images": ["AmandaVeliz-1.jpeg"],
+    "phone": "929-281-7010",
+    "availability": ["after7", "9to3", "3to7", "weekends"],
+    "location": {"lat": 40.675657, "lng": -73.9844455},
+    "activities":["arts & crafts", "cooking", "music", "yoga", "science experiments", "dancing"],
+    "blurb": "I am a homeschooling SAHM, holistic health practitioner. I enjoy playing with children, everything from cooking to making music to crafts.",
+    "job": {"title" : "SAHM", "employer": "Home"},
+    "children":
+    [
+    {
+      "name":"R",
+      "age": 8,
+      "birthday": "01/01/2010",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    },
+    {
+      "name":"S",
+      "age": 5,
+      "birthday": "01/01/2013",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+
+ {
+    "id": 6463522142,
+    "networks": ["prospectleffertsparents"],
+    "name": "Jennifer",
+    "lastInitial": "S",
+    "pic": "avatar-JenniferSydor.png",
+    "images": ["JennferSydor-1.jpeg"],
+    "phone": "646-352-2142",
+    "availability": [""],
+    "location": {"lat": 40.6534004, "lng": -73.9593867},
+    "activities":["playing outside"],
+    "blurb": "Hi Everyone!  I am a professional dancer, choreographer, educator and Pilates instructor.  I am a new mother looking to build my childcare network as well as connect to other families.",
+    "job": {"title" : "Dancer", "employer": "The Metropolitan Opera"},
+    "children":
+    [
+    {
+      "name":"Luca",
+      "age": 1,
+      "birthday": "07/23/2018",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+
+  {
+    "id": 3018301855,
+    "networks": ["prospectleffertsparents"],
+    "name": "Tullah",
+    "lastInitial": "D",
+    "pic": "avatar-TullahD.png",
+    "images": ["TullahDash-1.jpeg", "TullahDash-2.jpeg", "TullahDash-3.jpeg", "TullahDash-4.jpg", "TullahDash-5.jpg"],
+    "phone": "301-830-1855",
+    "availability": ["7to3"],
+    "location": {"lat": 40.7246789, "lng": -73.9820467},
+    "activities":["arts & crafts", "book club", "cooking", "field trips", "homework help", "playing outside", "dance"],
+    "blurb": "I'm an early childhood educator currently caring for my 2 year old full-time, as well as writing/illustrating children's books during nap time!",
+    "job": {"title" : "Teacher", "employer": "Maple Street School"},
+    "children":
+    [
+    {
+      "name":"Mosi",
+      "age": 1,
+      "birthday": "11/03/2016",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+   {
+    "id": 6466600296,
+    "networks": ["cottageclass"],
+    "name": "Courtney",
+    "lastInitial": "W",
+    "pic": "avatar-CourtneyW.png",
+    "images": ["CourtneyW-1.jpg"],
+    "phone": "646-660-0296",
+    "availability": ["7to3", "weekends"],
+    "location": {"lat": 40.839799, "lng": -73.8684857},
+    "activities":["arts & crafts", "music", "playing outside", "science", "cooking"],
+    "blurb": "I'm a certified art, elementary, and English teacher.  My husband (social work student) and my daughter and I haunt local libraries, the zoo, and parks in the Bronx!",
+    "job": {"title" : "Educator", "employer": "Adelphi University"},
+    "children":
+    [
+    {
+      "name":"Imogen",
+      "age": 4,
+      "birthday": "06/17/2014",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+
+{
+    "id": 3107175545,
+    "networks": ["bedstuyparents"],
+    "name": "Sunny",
+    "lastInitial": "S",
+    "pic": "avatar-SunnyS.png",
+    "images": ["SunnyShokrae-1.jpg", "SunnyShokrae-2.jpg", "SunnyShokrae-3.jpg", "SunnyShokrae-4.jpg", "SunnyShokrae-5.jpg"],
+    "phone": "310-717-5545",
+    "availability": [""],
+    "location": {"lat": 40.685033, "lng": -73.9322547},
+    "activities":["bilingual immersion", "field trips", "arts & crafts", "music", "playing outside"],
+    "blurb": "I'm a freelance photographer, mother, wife, airbnb manager, landlady, etc",
+    "job": {"title" : "Photographer", "employer": "freelance so everywhere"},
+    "children":
+    [
+    {
+      "name":"Leo Arya Kelley",
+      "age": 1,
+      "birthday": "11/06/2017",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+
+  {
+    "id": 7188085465,
+    "networks": ["prospectheightsparents"],
+    "name": "Casey",
+    "lastInitial": "M",
+    "pic": "avatar-CaseyM.png",
+    "images": ["CaseyM-1.jpeg"],
+    "phone": "718-808-5465",
+    "availability": ["after7", "7to3", "3to7", "weekends"],
+    "location": {"lat": 40.6740197, "lng": -73.9467362},
+    "activities":["cooking", "field trips", "arts & crafts", "music", "homework help", "playing outside", "yoga"],
+    "job": {"title" : "Adjunct Lecturer", "employer": "p/t Brooklyn College"},
+    "children":
+    [
+    {
+      "name": "Jordi",
+      "age": 1,
+      "birthday": "09/22/2017",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+
+  {
+    "id": 9178481185,
+    "networks": ["flatbushfamilies"],
+    "name": "Amaranta",
+    "lastInitial": "V",
+    "pic": "avatar-AmarantaV.png",
+    "images": ["AmarantaV-1.jpg"],
+    "phone": "917-848-1185",
+    "availability": ["9to3", "3to7", "weekends"],
+    "location": {"lat": 40.6397983, "lng": -73.9597081},
+    "activities":["field trips", "homework help", "music", "playing outside", "sports and recreation" ],
+    "blurb": "I'm a freelance classical musician and music teacher, lover of poetry and nature, and proud mom and feminist.",
+    "job": {"title" : "Musician", "employer": "Self-Employed Musician"},
+    "children":
+    [
+    {
+      "name":"Nathaniel",
+      "age": 2,
+      "birthday": "11/04/2015",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+
+{        
+    "id": 2815071388,
+    "networks": ["greenpointwilliamsburgmommies"],
+    "name": "Jeremy",
+    "lastInitial": "J",
+    "pic": "avatar-JeremyJ.png",
+    "images": ["JeremyJ-1.jpg"],
+    "phone": "281-507-1388",
+    "availability": ["7to3"],
+    "location": {"lat": 40.7210157, "lng": -73.9498812},
+    "activities":["book club", "homework help" ],
+    "job": {"title" : "Vice President", "employer": "Blackrock"},
+    "children":
+    [
+    {
+      "name":"Divya",
+      "age": 0,
+      "birthday": "09/14/2018",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+
+{
+    "id": 5084960187,
+    "networks": ["nycbabystuff"],
+    "name": "Bushra",
+    "lastInitial": "L",
+    "pic": "avatar-BushraL.png",
+    "images": ["BushraL-1.jpeg"],
+    "phone": "508-496-0187",
+    "availability": [ "weekends"],
+    "location": {"lat": 40.761015, "lng": -73.9334067},
+    "activities":["arts & crafts", "book club", "cooking", "field trips", "playing outside", "yoga" ],
+    "job": {"title" : "Mom", "employer": "Home"},
+    "children":
+    [
+    {
+      "name":"Zain Kenzo",
+      "age": 2,
+      "birthday": "07/15/2016",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+             }
+  ]
+  },
+
+  {
+    "id": 3475794359,
+    "networks": ["waterfrontfamilysalon"],
+    "name": "Camille",
+    "lastInitial": "B",
+    "pic": "avatar-CamilleBourdel.png",
+    "images": ["CamilleBourdel-1.jpg", "CamilleBourdel-2.jpg", "CamilleBourdel-3.jpg"],
+    "phone": "347-579-4359",
+    "availability": ["3to7"],
+    "location": {"lat": 40.6538844, "lng": -73.9781438},
+    "activities":["arts & crafts", "cooking", "playing outside"],
+    "job": {"title" : "Office Manager", "employer": "Pierre Atelier"},
+    "children":
+    [
+    {
+      "name":"Paul",
+      "age": 4,
+      "birthday": "08/13/2014",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    },
+    {
+      "name":"Thibaut",
+      "age": 0,
+      "birthday": "10/23/2018",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    },
+    {
+      "name":"Mathilde",
+      "age": 0,
+      "birthday": "06/27/2018",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+
+ {  "id": 9173405819,
+    "networks": ["BoCoCaGo"],
+    "name": "Matthieu",
+    "lastInitial": "S",
+    "pic": "avatar-MatthieuS.png",
+    "images": ["MatthieuS-1.jpg"],
+    "phone": "917-340-5819",
+    "availability": ["after7", "weekends"],
+    "location": {"lat": 40.6873894, "lng": -73.9937772},
+    "activities":["bilingual immersion", "book club", "playing outside"],
+    "job": {"title": "Banker", "employer": "Bank"},
+    "children":
+    [
+    {
+      "name":"Kyllian",
+      "age": 2,
+      "birthday": "10/24/2015",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    },
+    {
+      "name":"Finn",
+      "age": 1,
+      "birthday": "07/12/2017",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }       
+  ]
+  },
+
+ {
+    "id": 9084324444,
+    "networks": ["BoCoCaGo"],
+    "name": "Rachel",
+    "lastInitial": "C",
+    "pic": "avatar-RachelChristensen.png",
+    "images": ["RachelChristensen-1.jpg"],
+    "phone": "908-432-4444",
+    "availability": ["weekends"],
+    "location": {"lat": 40.686275, "lng": -73.9771757},
+    "activities":["playing outside"],
+    "job": {"title": "Associate Director of Social Media", "employer": "ACLU"},
+    "children":
+    [
+    {
+      "name":"Talia",
+      "age": 1,
+      "birthday": "09/17/2017",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+     }
+       ]
+  },
+
+ {
+    "id": 2404815304,
+    "networks": ["bushridgeparents"],
+    "name": "Steph",
+    "lastInitial": "H",
+    "pic": "avatar-StephH.png",
+    "images": ["StephH-1.jpeg"],
+    "phone": "240-481-5304",
+    "availability": [""],
+    "location": {"lat": 40.709738, "lng": -73.9178477},
+    "activities":["arts & crafts"],
+    "job": {"title": "Data Analyst", "employer": "Advancing New Standards in Reproductive Health"},
+    "children":
+    [
+    {
+      "name":"Barak",
+      "age": 0,
+      "birthday": "02/06/2018",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }       
+  ]
+  },
+  {
+    "id": 9176568850,
+    "networks": ["BoCoCaGo"],
+    "name": "Noemie",
+    "lastInitial": "T",
+    "pic": "avatar-NoemieT.png",
+    "images": ["NoemieT-1.jpeg"],
+    "phone": "917-656-8850",
+    "availability": ["7to3"],
+    "location": {"lat": 40.7015807, "lng": -73.9857971},
+    "activities":["Bilingual immersion", "playing outside", "photography" ],
+    "job": {"title": "Photographer", "employer": "Self employed"},
+    "children":
+    [
+    {
+      "name":"Emma",
+      "age": 1,
+      "birthday": "01/17/2017",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+             }       
+  ]
+  },
+
+ {        
+    "id": 9178219719,
+    "networks": ["bushridgeparents"],
+    "name": "Nancy",
+    "lastInitial": "L",
+    "pic": "avatar-NancyL.png",
+    "images": ["NancyL-1.jpeg"],
+    "phone": "917-821-9719",
+    "availability": ["3to7"],
+    "location": {"lat": 40.6931661, "lng": -73.9115443},
+    "activities":["homework help", "playing outside", "photography" ],
+    "job": {"title": "", "employer": ""},
+    "children":
+    [
+    {
+      "name":"Amos",
+      "age": 1,
+      "birthday": "11/15/2017",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+                   }       
+  ]
+  },
+
+ {  
+    "id": 3478859954,
+    "networks": ["nyc-homeschoolers"],
+    "name": "Tam",
+    "lastInitial": "Z",
+    "pic": "avatar-TamZ.png",
+    "images": ["TamZ-1.jpg"],
+    "phone": "347-885-9954",
+    "availability":  ["after7", "7to3", "3to7", "weekends"],
+    "location": {"lat": 40.6812265, "lng": -73.9742094},
+    "activities":["arts & crafts", "field trips", "music", "playing outside", "sports and recreation"],
+    "job": {"title": "Financial Controller/Book Keeper", "employer": "Home"},
+    "children":
+    [
+    {
+      "name":"Alaijah",
+      "age": 14,
+      "birthday": "05/16/2004",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    },
+    {
+      "name":"Fama",
+      "age": 6,
+      "birthday": "05/10/2012",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }       
+  ]
+  },
+  {    
+    "id": 6463274678,
+    "networks": ["BoCoCaGo"],
+    "name": "Jessica",
+    "lastInitial": "S",
+    "pic": "avatar-placeholder.png",
+    "images": [""],
+    "phone": "646-327-4678",
+    "availability":  ["weekends"],
+    "location": {"lat": 40.6812265, "lng": -73.9742094},
+    "activities":["arts & crafts", "homework help"],
+    "job": {"title": "Teacher", "employer": "The Earth School"},
+    "children":
+    [
+    {
+      "name":"Henry",
+      "age": 14,
+      "birthday": "01/09/2016",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+     }       
+  ]
+  },
+
+  {
+    "id": 9178287282,
+    "networks": ["BoCoCaGo"],
+    "name": "Abby",
+    "lastInitial": "Mack",
+    "pic": "Avatar-AbbyMack.png",
+    "images": ["AbbyMack-1.jpg"],
+    "phone": "917-828-7282",
+    "availability": ["3to7", "after7", "weekends"],
+    "location": {"lat": 40.6877381, "lng": -73.9788248}, 
+    "activities":["music", "bilingual immersion", "cooking", "homework help"],
+    "job": {"title": "Language Lecturer", "employer": "New York University"},
+    "children":
+    [
+    {
+    "name":"Wesley",
+    "age": 1,
+    "birthday": "2017-09-22",
+    "allergies": "",
+    "medicalNeeds": "",
+    "otherNeeds": ""
+    }
+    ]
+  },
+
+  {
+    "id": 3478841364,
+    "networks": ["cottageclass", "BoCoCaGo"],
+    "name": "Miranda",
+    "lastInitial": "M",
+    "pic": "Avatar-MirandaLeighMitchell.png",
+    "images": ["MirandaLeighMitchell-1.jpg"],
+    "phone": "347-884-1364",
+    "availability": ["3to7"],
+    "location": {"lat": 40.696842, "lng": -73.9948596}, 
+    "activities":["arts & crafts", "field trips", "playing outside"],
+    "job": {"title": "", "employer": ""},
+    "children":
+    [
+    {
+    "name":"Marisol Athena",
+    "age": 3,
+    "birthday": "2015-04-06",
+    "allergies": "",
+    "medicalNeeds": "",
+    "otherNeeds": ""
+    },
+    {
+    "name":"Justin Ray",
+    "age": 0,
+    "birthday": "2018-02-15",
+    "allergies": "",
+    "medicalNeeds": "",
+    "otherNeeds": ""
+    }
+  ]
+  },
+  {
+    "id": 9175092146,
+    "networks": ["BoCoCaGo"],
+    "name": "Ariella",
+    "lastInitial": "W",
+    "pic": "Avatar-AriellaWilloughby.png",
+    "images": ["AriellaWilloughby-1.jpg"],
+    "phone": "917-509-2146",
+    "availability": [""],
+    "location": {"lat": 40.6850662, "lng": -73.9810975}, 
+    "activities":["Playing outside"],
+    "job": {"title": "Operations Consultant", "employer": "Self-Employed"},
+    "children":
+    [
+    {
+    "name":"Ellie",
+    "age": 3,
+    "birthday": "2015-08-25",
+    "allergies": "",
+    "medicalNeeds": "",
+    "otherNeeds": ""
+    },
+    {
+    "name":"Oliver",
+    "age": 0,
+    "birthday": "2018-03-16",
+    "allergies": "",
+    "medicalNeeds": "",
+    "otherNeeds": ""
+    }
+    ]
+  },
+{
+  "id": 8649151850,
+  "networks": ["Harlem"],
+  "name": "April",
+  "lastInitial": "S",
+  "pic": "avatar-AprilSmith-Hirak.png",
+  "images": ["AprilSmith-Hirak-1.jpg"],
+  "phone": "8649151850",
+  "availability": ["after7", "weekends"],
+  "location": {"lat": 40.8050888, "lng": -73.9543009}, 
+  "activities":["arts & crafts", "book club", "playing outside", "music"],
+  "job": {"title": "Acting Regional Health Administrator", "employer": "US Department of Health and Human Services"},
+  "children":
+  [
+  {
+  "name":"Daniella",
+  "age": 2,
+  "birthday": "2015-12-01",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name":"Maya",
+  "age": 0,
+  "birthday": "2017-11-01",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+
+
+{
+  "id": 9132207739,
+  "networks": ["HydePark"],
+  "name": "Rebecca",
+  "lastInitial": "M",
+  "pic": "avatar-RebeccaMeyer.png",
+  "images": ["RebeccaMeyer-1.jpg"],
+  "phone": "9132207739",
+  "availability": [""],
+  "location": {"lat": 41.793478, "lng": -87.591307},   
+  "activities":["Playing Outside"],
+  "job": {"title": "Counselor", "employer": "Wheaton College"},
+  "children":
+  [
+  {
+  "name":"Caleb",
+  "age": 0,
+  "birthday": "2018-09-08",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+
+{
+  "id": 9376843845,
+  "networks": ["Sunnyside"],
+  "name": "Jamie",
+  "lastInitial": "C",
+  "pic": "avatar-JamieCox.png",
+  "images": ["JamieCox-1.jpg"],
+  "phone": "9376843845",
+  "availability": ["9to3", "3to7", "weekends"],
+  "location": {"lat": 40.747969, "lng": -73.902101},
+  "activities":["Arts & Crafts", "Music", "Playing Outside"],
+  "job": {"title": "Direct sales at home ", "employer": "Home"},
+  "children":
+  [
+  {
+  "name":"Spencer ",
+  "age": 0,
+  "birthday": "2017-11-17",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+
+{
+  "id": 2027252036,
+  "networks": ["DupontCircle"],
+  "name": "Mariana",
+  "lastInitial": "D",
+  "pic": "avatar-marianadiez.png",
+  "images": ["MarianaDiez-1.jpg"],
+  "phone": "2027252036",
+  "availability": ["3to7"],
+  "location": {"lat": 38.906262, "lng": -77.053191}, 
+  "activities":["Playing Outside", "Yoga"],
+  "job": {"title": "Community Manager", "employer": "Workafrolic"},
+  "children":
+  [
+  {
+  "name":"Adrian Simon Moreno",
+  "age": 0,
+  "birthday": "2017-11-09",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 4153476178,
+  "networks": ["NoeValley"],
+  "name": "Tia",
+  "lastInitial": "G",
+  "pic": "avatar-TiaGhose.png",
+  "images": ["TiaGhose-1.jpg"],
+  "phone": "4153476178",
+  "availability": ["3to7", "after7", "weekends"],
+  "location": {"lat": 40.758657, "lng": -73.937974},  
+  "activities":["Book club", "Cooking", "Arts & Crafts", "Homework Help"],
+  "job": {"title": "Editor", "employer": "home-based"},
+  "children":
+  [
+  {
+  "name":"Zane",
+  "age": 6,
+  "birthday": "2012-05-08",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name":"Samson Ghose",
+  "age": 4,
+  "birthday": "2014-04-04",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name": "Colin",
+  "age": 1,
+  "birthday": "2017-10-03",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+
+{
+  "id": 7347170840,
+  "networks": ["Cortelyou"],
+  "name": "Anna",
+  "lastInitial": "N",
+  "pic": "avatar-AnnaNovick.png",
+  "images": ["AnnaNovick-1.jpg"],
+  "phone": "7347170840",
+  "availability": ["9to3", "3to7"],
+  "location": {"lat": 40.635011, "lng": -73.943780}, 
+  "activities":["Playing Outside"],
+  "job": {"title": "Manager", "employer": "Self employed"},
+  "children":
+  [
+  {
+  "name":"Sean",
+  "age": 2,
+  "birthday": "2016-04-09",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 9785784783,
+  "networks": ["Dumbo"],
+  "name": "Susy",
+  "lastInitial": "J",
+  "pic": "avatar-Susy Jackson .png",
+  "images": ["SusyJackson-1.jpg"],
+  "phone": "9785784783",
+  "availability": [""],
+  "location": {}, 
+  "activities":["Sports and recreation"],
+  "job": {"title": "", "employer": "LinkedIn "},
+  "children":
+  [
+  {
+  "name":"M",
+  "age": 2,
+  "birthday": "2016-09-01",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name":"H",
+  "age": 0,
+  "birthday": "2018-09-01",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 9176769399,
+  "networks": ["ForestHills"],
+  "name": "Elizaveta",
+  "lastInitial": "Bor",
+  "pic": "avatar-ElizavetaBor.png",
+  "images": ["ElizavetaBor-1.jpg"],
+  "phone": "9176769399",
+  "availability": ["9to3", "3to7"],
+  "location": {}, 
+  "activities":[""],
+  "job": {"title": "beauty", "employer": "freelancer"},
+  "children":
+  [
+  {
+  }
+  ]
+},
+{
+  "id": 3125222713,
+  "networks": ["HydePark"],
+  "name": "Efe",
+  "lastInitial": "A",
+  "pic": "avatar-EfeAdefulu.png",
+  "images": ["EfeAdefulu-1.jpg"],
+  "phone": "3125222713",
+  "availability": ["after7", "weekends"],
+  "location": {"lat": 41.781391, "lng": -87.595907},   
+  "activities":["Homework Help", "Playing Outside"],
+  "job": {"title": "Accountant", "employer": "Renewable Energy Company"},
+  "children":
+  [
+  {
+  "name":"Sayo",
+  "birthday": "",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name":"Mayo",
+  "birthday": "",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 9172547116,
+  "networks": ["Brooklyn"],
+  "name": "Katya",
+  "lastInitial": "C",
+  "pic": "avatar-KatyaChitov.png",
+  "images": ["KatyaChitov-1.jpg"],
+  "availability": ["9to3"],
+  "location": {"lat": 40.655476, "lng": -73.977100},
+  "activities": ["Arts & Crafts", "Bilingual Immersion", "Field Trips", "Homework Help", "Music", "Playing Outside", "Sports and recreation", "Yoga"],
+  "job": {"title": "Accounting", "employer": "NYC "},
+  "children":
+  [
+  {
+  "name":"Dasha",
+  "age": 3,
+  "birthday": "2015-01-04",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name":"Erik",
+  "age": 7,
+  "birthday": "2011-05-04",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 7188733716,
+  "networks": ["Harlem"],
+  "name": "Marta",
+  "lastInitial": "P",
+  "pic": "avatar-MartaPeimer.png",
+  "images": ["MartaPeimer-1.jpg"],
+  "phone": "7188733716",
+  "availability": ["after7"],
+  "location": {"lat": 40.824667, "lng": -73.941749}, 
+  "activities":["Book club, Playing Outside"],
+  "job": {"title" : "Nurse practitioner", "employer": "Mount Sinai"},
+  "children":
+  [
+  {
+  "name":"Shoshana ",
+  "age": 4,
+  "birthday": "2014-07-15",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name":"Saul",
+  "age": 4,
+  "birthday": "2014-07-15",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 4147087500,
+  "networks": ["DupontCircle"],
+  "name": "Carmiel",
+  "lastInitial": "A",
+  "pic": "avatar-CarmielArbit.png",
+  "images": ["CarmielArbit-1.jpg"],
+  "phone": "4147087500",
+  "availability": [""],
+  "location": {"lat": 40.597956, "lng": -73.650571}, 
+  "activities":["Volunteering"],
+  "job": {"title" : "Director ", "employer": "Aipac "},
+  "children":
+  [
+  {
+  "name":"Solomon ",
+  "age": 0,
+  "birthday": "2018-06-15",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 7825166545,
+  "networks": ["Henley"],
+  "name": "Katie",
+  "lastInitial": "C",
+  "pic": "avatar-KatieCampbell.png",
+  "images": ["KatieCampbell-1.jpg"],
+  "phone": "07825166545",
+  "availability": ["9to3", "after7"],
+  "location": {"lat": 51.5316145, "lng": -0.9193641}, 
+  "activities":["Playing Outside", "Sports and recreation", "Dance"],
+  "job": {"title" : "Head of Year ", "employer": "Newlands Girls’ School"},
+  "children":
+  [
+  {
+  "name":"Tabitha “Tatty”",
+  "age": 5,
+  "birthday": "2013-10-18",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name":"Saskia “Kiki”",
+  "age": 3,
+  "birthday": "2015-05-15",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name": "Indira “Indie”",
+  "age": 0,
+  "birthday": "2018-02-09",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 9174746866,
+  "networks": ["Brooklyn"],
+  "name": "Melissa",
+  "lastInitial": "G",
+  "pic": "avatar-MelissaGorelick.png",
+  "images": ["MelissaGorelick-1.jpg"], 
+  "phone": "9174746866",
+  "availability": ["weekends"],
+  "location": {"lat": 40.6743075, "lng": -73.9734987},  
+  "activities":["Playing Outside"],
+  "job": {"title" : "Press Officer", "employer": "United Nations HQ New York"},
+  "children":
+  [
+  {
+  }
+  ]
+},
+{
+  "id": 3473068673,
+  "networks": ["Sunnyside"],
+  "name": "Emily",
+  "lastInitial": "K",
+  "pic": "avatar-EmilyKangas.png",
+  "images": ["EmilyKangas-1.jpg"],
+  "phone": "3473068673",
+  "availability": ["weekends"],
+  "location": {"lat": 40.746347, "lng": -73.914718},  
+  "activities":[""],
+  "job": {"title" : "Designer", "employer": "DSM"},
+  "children":
+  [
+  {
+  "name":"Aili",
+  "age": 1,
+  "birthday": "2017-08-21",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 4156725666,
+  "networks": ["theMission"],
+  "name": "Jennifer",
+  "lastInitial": "S",
+  "pic": "avatar-JenniferShenker.png",
+  "images": ["JenniferShenker-1.jpg"],
+  "phone": "4156725666",
+  "availability": ["3to7"],
+  "location": {"lat": 37.7510832, "lng": -122.4168187}, 
+  "activities":["Cooking", "Playing Outside", "Ballet"],
+  "job": {"title" : "Consultant", "employer": "Self employed"},
+  "children":
+  [
+  {
+  "name":"Greta",
+  "age": 3,
+  "birthday": "2015-04-03",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 2818137501,
+  "networks": ["HydePark"],
+  "name": "Christin ",
+  "lastInitial": "S",
+  "pic": "avatar-ChristinScott.png",
+  "images": ["ChristinScott-1.jpg"],
+  "phone": "2818137501",
+  "availability": ["7to9", "9to3"],
+  "location": {"lat": 41.7974109, "lng": -87.5912157}, 
+  "activities":["Arts & Crafts", "Field Trips", "Music", "Playing Outside", "Sports and recreation"],
+  "job": {"title" : "SAHM", "employer": "Home"},
+  "children":
+  [
+  {
+  "name":"Elijah ",
+  "age": 1,
+  "birthday": "2017-08-23",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 4088889316,
+  "networks": ["madisonsquarepark"],
+  "name": "Melissa",
+  "lastInitial": "H",
+  "pic": "avatar-MelissaHonores.png",
+  "images": ["MelissaHonores-1.jpg"],
+  "phone": "4088889316",
+  "availability": [""],
+  "location": {"lat": 40.7520547, "lng": -74.0037646}, 
+  "activities":[""],
+  "job": {"title" : "Sub.", "employer": "LREI"},
+  "children":
+  [
+  {
+  "name":"Gavin",
+  "age": 11,
+  "birthday": "2007-07-18",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 9176030492,
+  "networks": ["theMission"],
+  "name": "Riddhi",
+  "lastInitial": "S",
+  "pic": "avatar-RiddhiShah.png",
+  "images": ["RiddhiShah-1.jpg"],
+  "phone": "9176030492",
+  "availability": ["weekends"],
+  "location": {"lat": 37.7666452, "lng": -122.4296227}, 
+  "activities":["Arts & Crafts", "Book club"],
+  "job": {"title" : "Head of Content & Social", "employer": "Gusto"},
+  "children":
+  [
+  {
+  "name":"Leila",
+  "age": 2,
+  "birthday": "2016-02-05",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 9177714211,
+  "networks": ["PortWashington"],
+  "name": "Michelle",
+  "lastInitial": "H",
+  "pic": "avatar-MichelleHsiao.png",
+  "images": ["MichelleHsiao-1.jpg"],
+  "phone": "9177714211",
+  "availability": ["weekends"],
+  "location": {"lat": 40.8400207, "lng": -73.6933107}, 
+  "activities":["Cooking", "Field Trips"],
+  "job": {"title" : "Consultant", "employer": "Self employed "},
+  "children":
+  [
+  {
+  "name":"Lauren",
+  "age": 3,
+  "birthday": "2014-11-17",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 2024175395,
+  "networks": ["DupontCircle"],
+  "name": "Geraldine",
+  "lastInitial": "G",
+  "pic": "avatar-GeraldineGudefin.png",
+  "images": ["GeraldineGudefin-1.jpg"],
+  "phone": "202-417-5395",
+  "availability": [""],
+  "location": {"lat": 38.9107653, "lng": -77.0504941}, 
+  "activities":["Bilingual Immersion"],
+  "job": {"title" : "Historian", "employer": "Home"},
+  "children":
+  [
+  {
+  "name":"Eleanor Zoe ",
+  "age": 0,
+  "birthday": "2018-08-06",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 9172925160,
+  "networks": ["Cambridge"],
+  "name": "Diana",
+  "lastInitial": "Y",
+  "pic": "avatar-DianaYousef.png",
+  "images": ["DianaYousef-1.jpg"],
+  "phone": "917-292-5160",
+  "availability": [""],
+  "location": {"lat": 42.372713, "lng": -71.1088089}, 
+  "activities":[""],
+  "job": {"title" : "Founder, CEO", "employer": "WATER Labs"},
+  "children":
+  [
+  {
+  "name":"Annalisa",
+  "age": 7,
+  "birthday": "2010-12-05",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name":"Esme",
+  "age": 2,
+  "birthday": "2015-12-13",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 4153502471,
+  "networks": ["theMission"],
+  "name": "Milo",
+  "lastInitial": "B",
+  "pic": "avatar-MiloBeitman.png",
+  "images": ["MiloBeitman-1.jpg"],
+  "phone": "415-350-2471",
+  "availability": ["after 7, weekends"],
+  "location": {"lat": 37.7700487, "lng": -122.4255106}, 
+  "activities":["Bilingual Immersion", "Field Trips", "Music", "Sports and recreation"],
+  "job": {"title" : "Staff Attorney ", "employer": "Legal Assistance For Seniors "},
+  "children":
+  [
+  {
+  "name":"Rustin",
+  "age": 7,
+  "birthday": "2011-04-08",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name":"Simone",
+  "age": 5,
+  "birthday": "2013-08-02",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 7145855122,
+  "networks": ["NoeValley"],
+  "name": "Erin",
+  "lastInitial": "O",
+  "pic": "avatar-ErinOConnor.png",
+  "images": ["ErinOConnor-1.jpg"],
+  "phone": "714-585-5122",
+  "availability": ["weekends"],
+  "location": {"lat": 37.7489134, "lng": -122.4390508}, 
+  "activities":["Arts & Crafts"],
+  "job": {"title" : "Research Linguist", "employer": "Optum360 (but I work from home)"},
+  "children":
+  [
+  {
+  "name":"Erin",
+  "age": 2,
+  "birthday": "2016-10-19",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 3472674925,
+  "networks": ["ForestHills"],
+  "name": "Mary",
+  "lastInitial": "F",
+  "pic": "avatar-MaryFriedel.png",
+  "images": ["MaryFriedel-1.jpg"],
+  "phone": "347-267-4925",
+  "availability": ["weekends"],
+  "location": {"lat": 40.716514, "lng": -73.8542677}, 
+  "activities":["Arts & Crafts", "Playing Outside"],
+  "job": {"title" : "Vp business operations ", "employer": "Horizon media inc"},
+  "children":
+  [
+  {
+  "name":"Lucas",
+  "age": 2,
+  "birthday": "2016-01-29",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name":"Olivia",
+  "age": 6,
+  "birthday": "2012-10-05",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 4052507184,
+  "networks": ["generic"],
+  "name": "Ruth",
+  "lastInitial": "A",
+  "pic": "avatar-RuthAbrahams.png",
+  "images": ["RuthAbrahams-1.jpg"],
+  "phone": "405-250-7184",
+  "availability": ["9to3", "3to7"],
+  "location": {"lat": 35.5599124, "lng": -97.6315306}, 
+  "activities":["Homework Help", "Playing Outside", "Sports and recreation"],
+  "job": {"title" : "Mama", "employer": "Stay at home"},
+  "children":
+  [
+  {
+  "name":"Mary",
+  "age": 3,
+  "birthday": "2015-08-21",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name":"John",
+  "age": 1,
+  "birthday": "2017-10-16",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 6174079676,
+  "networks": ["NoeValley"],
+  "name": "Robin",
+  "lastInitial": "S",
+  "pic": "avatar-RobinShostack.png",
+  "images": ["RobinShostack-1.jpg"],
+  "phone": "617-407-9676",
+  "availability": ["weekends"],
+  "location": {"lat": 37.7582182, "lng": -122.4421817}, 
+  "activities":["Cooking"],
+  "job": {"title" : "Program Manager", "employer": "Google"},
+  "children":
+  [
+  {
+  "name":"Colin",
+  "age": 2,
+  "birthday": "2016-08-09",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 3013322023,
+  "networks": ["DupontCircle"],
+  "name": "Esty",
+  "lastInitial": "P",
+  "pic": "avatar-EstyPeskowitz.png",
+  "images": ["EstyPeskowitz-1.jpg"],
+  "phone": "3013322023",
+  "availability": [""],
+  "location": {}, 
+  "activities":["Cooking", "Field Trips", "Music", "Sports and recreation"],
+  "job": {"title" : "", "employer": ""},
+  "children":
+  [
+  {
+  }
+  ]
+},
+{
+  "id": 5167801489,
+  "networks": ["PortWashington"],
+  "name": "Christine",
+  "lastInitial": "E",
+  "pic": "avatar-ChristineElliott-Negri.png",
+  "images": ["ChristineElliott-Negri-1.jpg"],
+  "phone": "516-780-1489",
+  "availability": ["9to3", "3to7"],
+  "location": {"lat": 40.821255, "lng": -73.69961}, 
+  "activities":["Arts & Crafts", "Field Trips", "Playing Outside", "Music"],
+  "job": {"title" : "Psychotherapist", "employer": "Services for the Underserved"},
+  "children":
+  [
+  {
+  "name":"Samaya Elliott-Negri",
+  "age": 1,
+  "birthday": "2016-12-31",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+
+{
+  "id": 3475585204,
+  "networks": ["Sunnyside"],
+  "name": "Yeraldyn",
+  "lastInitial": "H",
+  "pic": "avatar-YeraldynHermita.png",
+  "images": ["YeraldynHermita-1.jpg"],
+  "phone": "3475585204",
+  "availability": ["weekends"],
+  "location": {"lat": 40.7379769, "lng": -73.9206597}, 
+  "activities":["Arts & Crafts", "Playing Outside"],
+  "job": {"title" : "Full time mommy & babysitter", "employer": "home"},
+  "children":
+  [
+  {
+  "name":"Sebastián ",
+  "age": 5,
+  "birthday": "2013-03-30",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name":"Liana",
+  "age": 2,
+  "birthday": "2016-09-08",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 7737919461,
+  "networks": ["HydePark"],
+  "name": "April",
+  "lastInitial": "L",
+  "pic": "avatar-AprilLundberg.png",
+  "images": ["AprilLundberg-1.jpg"],
+  "phone": "773-791-9461",
+  "availability": ["weekends"],
+  "location": {"lat": 41.8050025, "lng": -87.6067659}, 
+  "activities":["Arts & Crafts", "Bilingual Immersion", "Book club", "Homework Help"],
+  "job": {"title" : "Children's Librarian", "employer": "Chicago Public Library"},
+  "children":
+  [
+  {
+  "name":"Julia",
+  "age": 2,
+  "birthday": "2015-12-10",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 3152185915,
+  "networks": ["Syracuse"],
+  "name": "Paula",
+  "lastInitial": "K",
+  "pic": "avatar-PaulaK.png",
+  "images": ["PaulaK-1.jpg"],
+  "phone": "315-218-5915",
+  "availability": ["3to7"],
+  "location": {}, 
+  "activities":["Book club"],
+  "job": {"title" : "Employee", "employer": "There"},
+  "children":
+  [
+  {
+  "name":"suzie",
+  "age": 0,
+  "birthday": "2018-10-05",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name":"frank",
+  "age": 0,
+  "birthday": "2018-10-16",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 3472249999,
+  "networks": ["Harlem"],
+  "name": "Rhonda",
+  "lastInitial": "T",
+  "pic": "avatar-RhondaThompson.png",
+  "images": ["RhondaThompson-1.jpg"],
+  "phone": "347-224-9999",
+  "availability": ["after7", "9to3"],
+  "location": {"lat": 40.8183835, "lng": -73.9407655}, 
+  "activities":["Music", "Playing Outside"],
+  "job": {"title" : "SAHM", "employer": "Home"},
+  "children":
+  [
+  {
+  "name":"Ryleigh",
+  "age": 2,
+  "birthday": "2016-05-12",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 3153175856,
+  "networks": ["Syracuse"],
+  "name": "Julia",
+  "lastInitial": "M",
+  "pic": "avatar-JuliaMartin.png",
+  "images": ["JuliaMartin-1.jpg"],
+  "phone": "315-317-5856",
+  "availability": [""],
+  "location": {"lat": 43.0367387, "lng": -76.1051214}, 
+  "activities":["Arts & Crafts", "Playing Outside", "Sports and recreation", "Volunteering", "Yoga"],
+  "job": {"title" : "Attorney", "employer": "Bousquet Holstein PLLC"},
+  "children":
+  [
+  {
+  "name":"Abigail",
+  "age": 5,
+  "birthday": "2013-02-21",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name":"Robert (Robbie)",
+  "age": 2,
+  "birthday": "2016-10-20",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 6178186254,
+  "networks": ["Somerville"],
+  "name": "Roz",
+  "lastInitial": "P",
+  "pic": "avatar-RozPuleo.png",
+  "images": ["RozPuleo-1.jpg"],
+  "phone": "617-818-6254",
+  "availability": ["9to3"],
+  "location": {"lat": 42.3917409, "lng": -71.0987218}, 
+  "activities":["Field Trips", "Playing Outside", "Sports and recreation"],
+  "job": {"title" : "Nurse Practitioner", "employer": "MIT"},
+  "children":
+  [
+  {
+  "name":"Chase",
+  "age": 5,
+  "birthday": "2013-09-01",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name":"Roxy",
+  "age": 3,
+  "birthday": "2015-12-02",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 4802975689,
+  "networks": ["Somerville"],
+  "name": "Anjana",
+  "lastInitial": "S",
+  "pic": "avatar-AnjanaSukumar.png",
+  "images": ["AnjanaSukumar-1.jpg"],
+  "phone": "480-297-5689",
+  "availability": ["after7", "weekends"],
+  "location": {"lat": 42.3832594, "lng": -71.0863443}, 
+  "activities":["Book club", "Field Trips", "Music", "Playing Outside", "Sports and recreation"],
+  "job": {"title" : "Business Analyst", "employer": "Waltham"},
+  "children":
+  [
+  {
+  "name":"Reva",
+  "age": 4,
+  "birthday": "2014-06-01",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 6178160488,
+  "networks": ["Somerville"],
+  "name": "Kathleen",
+  "lastInitial": "H",
+  "pic": "avatar-KathleenHornby.png",
+  "images": ["KathleenHornby-1.jpg"],
+  "phone": "617-816-0488",
+  "availability": ["9to3", "3to7"],
+  "location": {"lat": 42.3941851, "lng": -71.1116452}, 
+  "activities":["Book club", "Cooking"],
+  "job": {"title" : "Mom", "employer": "Home"},
+  "children":
+  [
+  {
+  "name":"Maisie",
+  "age": 4,
+  "birthday": "2014-09-07",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name":"Quint",
+  "age": 1,
+  "birthday": "2017-06-01",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 6467294675,
+  "networks": ["Dumbo"],
+  "name": "Ilise",
+  "lastInitial": "R",
+  "pic": "avatar-IliseReznick.png",
+  "images": ["IliseReznick-1.jpg"],
+  "phone": "646-729-4675",
+  "availability": [""],
+  "location": {"lat": 40.7033719, "lng": -73.9879941}, 
+  "activities":["Arts & Crafts"],
+  "job": {"title" : "User Researcher", "employer": "Self-employed"},
+  "children":
+  [
+  {
+  "name":"Alexa",
+  "age": 8,
+  "birthday": "2010-07-10",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name":"Hazel",
+  "age": 5,
+  "birthday": "2013-10-01",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 4014641156,
+  "networks": ["Somerville"],
+  "name": "Jasmine",
+  "lastInitial": "C",
+  "pic": "avatar-JasmineCalderon.png",
+  "images": ["JasmineCalderon-1.jpg"],
+  "phone": "401-464-1156",
+  "availability": ["after7", "weekends"],
+  "location": {"lat": 42.427501, "lng": -71.1113899}, 
+  "activities":["Bilingual Immersion", "Music", "Playing Outside"],
+  "job": {"title" : "Employed", "employer": "Archipelago Strategies Group"},
+  "children":
+  [
+  {
+  "name":"Nikko",
+  "birthday": "",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 2022623002,
+  "networks": ["DupontCircle"],
+  "name": "Anna",
+  "lastInitial": "N",
+  "pic": "avatar-AnnaNorthrup.png",
+  "images": ["AnnaNorthrup-1.jpg"],
+  "phone": "202-262-3002",
+  "availability": ["7to9", "9to3"],
+  "location": {"lat": 38.9103753, "lng": -77.0542726}, 
+  "activities":["Arts & Crafts", "Field Trips"],
+  "job": {"title" : "", "employer": ""},
+  "children":
+  [
+  {
+  "name":"Chom",
+  "age": 0,
+  "birthday": "2017-12-12",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+
+{
+  "id": 4153207684,
+  "networks": ["theMission"],
+  "name": "Issac",
+  "lastInitial": "R",
+  "pic": "avatar-IssacRoth.png",
+  "images": ["IssacRoth-1.jpg"],
+  "phone": "415-320-7684",
+  "availability": [""],
+  "location": {"lat": 37.7577989, "lng": -122.422402}, 
+  "activities":["Yoga"],
+  "job": {"title" : "", "employer": ""},
+  "children":
+  [
+  {
+  "name":"Eva",
+  "age": 1,
+  "birthday": "2017-09-03",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 4158233387,
+  "networks": ["theMission"],
+  "name": "Carrie",
+  "lastInitial": "M",
+  "pic": "avatar-CarrieMaloney.png",
+  "images": ["CarrieMaloney-1.jpg"],
+  "phone": "415-823-3387",
+  "availability": ["3to7", "after7", "weekends"],
+  "location": {"lat": 37.7538316, "lng": -122.4272471}, 
+  "activities":["Arts & Crafts", "Book club", "Coding and Online Games", "Homework Help", "Playing Outside"],
+  "job": {"title" : "Program Administrator ", "employer": "Sfusd"},
+  "children":
+  [
+  {
+  "name":"Bella",
+  "birthday": "",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name":"Dylan",
+  "birthday": "",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 9173652149,
+  "networks": ["Riverdale"],
+  "name": "Serena",
+  "lastInitial": "C",
+  "pic": "avatar-SerenaSelkinCabrera.png",
+  "images": ["SerenaSelkinCabrera-1.jpg"],
+  "phone": "917-365-2149",
+  "availability": ["after7", "weekends"],
+  "location": {"lat": 40.876798, "lng": -73.9198921}, 
+  "activities":["Bilingual Immersion", "Cooking", "Field Trips", "Sports and recreation"],
+  "job": {"title" : "Director, grants", "employer": "Autism speaks"},
+  "children":
+  [
+  {
+  "name":"Conrad",
+  "age": 7,
+  "birthday": "2011-01-19",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name":"Lila",
+  "age": 3,
+  "birthday": "2015-01-02",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 9734209698,
+  "networks": ["FortGreene"],
+  "name": "Erez",
+  "lastInitial": "L",
+  "pic": "avatar-ErezLevin.png",
+  "images": ["ErezLevin-1.jpg"],
+  "phone": "973-420-9698",
+  "availability": ["after7"],
+  "location": {"lat": 40.692324, "lng": -73.9833117}, 
+  "activities":["Playing Outside"],
+  "job": {"title" : "Product Specialist", "employer": "Google"},
+  "children":
+  [
+  {
+  "name":"Aviva",
+  "age": 2,
+  "birthday": "2016-02-28",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 6469576258,
+  "networks": ["Sunnyside"],
+  "name": "Michelle",
+  "lastInitial": "A",
+  "pic": "avatar-MichelleArvin.png",
+  "images": ["MichelleArvin-1.jpg"],
+  "phone": "646-957-6258",
+  "availability": ["3to7"],
+  "location": {"lat": 40.743731, "lng": -73.919992}, 
+  "activities":["Cooking", "Playing Outside", "Homework Help"],
+  "job": {"title" : "Managing Partner", "employer": "Circus Warehouse"},
+  "children":
+  [
+  {
+  "name":"Lucca",
+  "age": 4,
+  "birthday": "2014-08-08",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 9176566602,
+  "networks": ["BoCoCa"],
+  "name": "Ellen",
+  "lastInitial": "D",
+  "pic": "avatar-EllenDoyle.png",
+  "images": ["EllenDoyle-1.jpg"],
+  "phone": "917-656-6602",
+  "availability": ["after7"],
+  "location": {"lat": 40.6809155, "lng": -73.9960154}, 
+  "activities":["Book club", "Homework Help", "Playing Outside"],
+  "job": {"title" : "Education Analyst ", "employer": "NYC DOE"},
+  "children":
+  [
+  {
+  "name":"Finnegan",
+  "age": 4,
+  "birthday": "2014-07-10",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name":"Hazel",
+  "age": 0,
+  "birthday": "2018-07-10",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 2672403750,
+  "networks": ["Riverdale"],
+  "name": "Ellie",
+  "lastInitial": "M",
+  "pic": "avatar-EllieMcGlinchey.png",
+  "images": ["EllieMcGlinchey-1.jpg"],
+  "phone": "267-240-3750",
+  "availability": ["after7", "weekends"],
+  "location": {}, 
+  "activities":[""],
+  "job": {"title" : "Assistant Professor", "employer": "Fairleigh Dickinson University"},
+  "children":
+  [
+  {
+  "name":"Mateo",
+  "birthday": "",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 8487023612,
+  "networks": ["DupontCircle"],
+  "name": "Ashley ",
+  "lastInitial": "W",
+  "pic": "avatar-AshleyWetzel.png",
+  "images": ["AshleyWetzel-1.jpg"],
+  "phone": "848-702-3612",
+  "availability": ["weekends"],
+  "location": {"lat": 38.9145931, "lng": -77.0453665}, 
+  "activities":["Playing Outside", "Yoga"],
+  "job": {"title" : "Associate", "employer": "Folger Nolan Fleming Douglas"},
+  "children":
+  [
+  {
+  "name":"Jay",
+  "age": 1,
+  "birthday": "2017-05-17",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 6464836634,
+  "networks": ["prospectheightsparents"],
+  "name": "Julia",
+  "lastInitial": "D",
+  "pic": "avatar-JuliaDruk.png",
+  "images": ["JuliaDruk-1.jpg"],
+  "phone": "646-483-6634",
+  "availability": [""],
+  "location": {"lat": 40.6780503, "lng": -73.9719452}, 
+  "activities":["Arts & Crafts", "Playing Outside", "Bilingual Immersion"],
+  "job": {"title" : "Digital Product Leader", "employer": "Freelance"},
+  "children":
+  [
+  {
+  "name":"Charlie",
+  "age": 2,
+  "birthday": "2016-08-21",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 2073322545,
+  "networks": ["AUpark"],
+  "name": "Jenn",
+  "lastInitial": "A",
+  "pic": "avatar-JennAnderson.png",
+  "images": ["JennAnderson-1.jpg"],
+  "phone": "207-332-2545",
+  "availability": ["weekends"],
+  "location": {"lat": 38.9486599, "lng": -77.0880777}, 
+  "activities":["Playing Outside", "Sports and recreation"],
+  "job": {"title" : "Learning Specialist", "employer": "Edmund Burke School"},
+  "children":
+  [
+  {
+  "name":"Sloane",
+  "age": 5,
+  "birthday": "2013-03-08",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name":"Wells",
+  "age": 1,
+  "birthday": "2017-02-21",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 9795836197,
+  "networks": ["prospectheightsparents"],
+  "name": "Gwen",
+  "lastInitial": "S",
+  "pic": "avatar-GwenSchroeder.png",
+  "images": ["GwenSchroeder-1.jpg"],
+  "phone": "979-583-6197",
+  "availability": ["weekends", "after7"],
+  "location": {"lat": 40.6818324, "lng": -73.976623}, 
+  "activities":["Sports and recreation", "Cooking"],
+  "job": {"title" : "Creative Director", "employer": "Michael J Fox Foundation"},
+  "children":
+  [
+  {
+  "name":"Laura",
+  "age": 2,
+  "birthday": "2016-09-01",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 6464009367,
+  "networks": ["NorthBrooklyn"],
+  "name": "Joe",
+  "lastInitial": "C",
+  "pic": "avatar-JoeCarrafa.png",
+  "images": ["JoeCarrafa-1.jpg"],
+  "phone": "646-400-9367",
+  "availability": [""],
+  "location": {"lat": 40.723929, "lng": -73.9003277}, 
+  "activities":["Playing Outside"],
+  "job": {"title" : "VP Engineering", "employer": "Plated"},
+  "children":
+  [
+  {
+  "name":"Noah",
+  "age": 8,
+  "birthday": "2010-01-20",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 7732639149,
+  "networks": ["HydePark"],
+  "name": "Jenny",
+  "lastInitial": "A",
+  "pic": "avatar-JennyAddison.png",
+  "images": ["JennyAddison-1.jpg"],
+  "phone": "773-263-9149",
+  "availability": ["3to7"],
+  "location": {"lat": 41.783028, "lng": -87.5996037}, 
+  "activities":["Arts & Crafts", "Cooking", "Homework Help", "Playing Outside", "Free play!"],
+  "job": {"title" : "Social Media Management and creative", "employer": "Self Employed"},
+  "children":
+  [
+  {
+  "name":"Emrys",
+  "age": 5,
+  "birthday": "2013-05-07",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  },
+  {
+  "name":"Smila",
+  "age": 15,
+  "birthday": "2003-12-03",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+{
+  "id": 4126124381,
+  "networks": ["HydePark"],
+  "name": "Rachel",
+  "lastInitial": "L",
+  "pic": "avatar-RachelLevenstein.png",
+  "images": ["RachelLevenstein-1.jpg"],
+  "phone": "412-612-4381",
+  "availability": ["weekends"],
+  "location": {}, 
+  "activities":["Arts & Crafts", "Book club", "Cooking", "Homework Help", "Playing Outside"],
+  "job": {"title" : "Senior researcher", "employer": "American Institutes for Research"},
+  "children":
+  [
+  {
+  "name":"April",
+  "age": 4,
+  "birthday": "2014-04-15",
+  "allergies": "",
+  "medicalNeeds": "",
+  "otherNeeds": ""
+  }
+  ]
+},
+
+
+  { 
+    "id": 100,
+    "networks": ["escondido-network"],
+    "name": "Kecia",
+    "lastInitial": "A",
+    "pic": "avatar-placeholder.png",
+    "images": [],
+    "phone": "760-484-0137",
+    "availability": ["7to3"],
+    "location": {"lat": 33.1048457, "lng": -117.0562155},
+    "activities":[],
+    "job": {"title" : "Teacher", "employer": "CottageClass"},
+    "children": 
+    [
+      { 
+      "name":"Miles",
+      "age": 10,
+      "birthday": "12/23/2007",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    },
+    { 
+      "name":"Maya",
+      "age": 6,
+      "birthday": "05/08/2012",
+      "allergies": "",
+      "medicalNeeds": "",
+      "otherNeeds": ""
+    }
+  ]
+  },
+
+  { 
+    "id": 13,
+    "name": "Holmes",
+    "networks": ["demo", "a-new-network"],
+    "lastInitial": "W", 
+    "pic": "avatar-8.png",
+    "images": ["holmes-3.jpg", "holmes-4.jpg", "holmes-5.jpg", "holmes-1.jpg", "holmes-2.jpg"],
+    "phone": "614-465-6371",
+    "availability": ["7to3", "3to7", "after7", "weekends"],
+    "location": {"lat": 40.6709948, "lng": -73.9845812},
+    "job": {"title": "Co-founder", "employer": "CottageClass"},
+    "activities": ["baking", "biking", "tennis", "running"],
+    "blurb": "I'm an activist, a step dad, and now I run a startup, I've been babysitting since I was 11.",
+    "backgroundCheck": true,
+    "emergencyContacts": [
+        {
+          "name": "Giseli Vasconcelos",
+          "relationship": "mother",
+          "phone": "617-544-7354"
+        },
+        {
+          "name": "Tiffiniy Cheng",
+          "relationship": "friend",
+          "phone": "413-367-6255"
+        },
+        {
+          "name": "patrick moriarty",
+          "relationship": "roommate",
+          "phone": "508-555-1212"
+        }
+       ],
+    "doctors": [
+      {
+       "name": "Le Quang",
+       "phone": "508-796-5661"
+      },
+      {
+      "name": "Jane Doe",
+      "phone": "508-555-1212"
+      }
+   ],
+    "children": [
+      {
+        "name": "Martina",
+        "age": 14,
+        "birthday": "5/19/2004",
+        "allergies": "Martina is mildly allergic to gluten",
+        "medicalNeeds": "",
+        "otherNotes": "Please try to limit Martina's screentime."
+      }
+    ],
+    "reviews": [
+    {
+      "userId": 2,
+      "text": "Holmes takes great care of kids!"
+    },
+    {
+      "userId": 3,
+      "text": "Holmes is super nice!"
+    }
+    ],
+    "concerns": [
+      {
+        "userId": 2,
+        "text": "Holmes's neighbors have a big scary dog so kids should probably stay inside."
+      }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>emojis/film-projector</title>
+    <desc>Created with Sketch.</desc>
+    <g id="emojis/film-projector" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="film-projector">
+            <path d="M10,55 C10,55.551 10.477,56 11.053,56 L44.949,56 C45.531,56 46,55.551 46,55 L46,37 C46,36.449 45.531,36 44.949,36 L11.053,36 C10.477,36 10,36.449 10,37 L10,55 Z" id="Path" fill="#4E5E67"></path>
+            <rect id="Rectangle" fill="#302C3B" x="46" y="40" width="4" height="9"></rect>
+            <rect id="Rectangle" fill="#4E5E67" x="46" y="40" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#4E5E67" x="58" y="36" width="2" height="17"></rect>
+            <polygon id="Path" fill="#302C3B" points="50 49 58 53 58 36 50 40"></polygon>
+            <rect id="Rectangle" fill="#302C3B" x="12" y="38" width="32" height="16"></rect>
+            <rect id="Rectangle" fill="#4E5E67" x="28" y="50" width="14" height="2"></rect>
+            <rect id="Rectangle" fill="#99A8AE" x="28" y="50" width="14" height="1"></rect>
+            <rect id="Rectangle" fill="#4E5E67" x="14" y="50" width="2" height="2"></rect>
+            <rect id="Rectangle" fill="#6E8189" x="15" y="42" width="13" height="4"></rect>
+            <polygon id="Path" fill="#4E5E67" points="50 40 50 41 58 39 58 36"></polygon>
+            <rect id="Rectangle" fill="#99A8AE" x="46" y="49" width="2" height="2"></rect>
+            <rect id="Rectangle" fill="#BEC3CF" x="46" y="52" width="4" height="2"></rect>
+            <rect id="Rectangle" fill="#99A8AE" x="46" y="52" width="4" height="1"></rect>
+            <rect id="Rectangle" fill="#302C3B" x="46" y="37" width="1" height="2"></rect>
+            <path d="M34,43 C34,47 40,47 40,43 C40,39 34,39 34,43 Z" id="Path" fill="#BEC3CF"></path>
+            <rect id="Rectangle" fill="#99A8AE" x="14" y="50" width="2" height="1"></rect>
+            <rect id="Rectangle" fill="#6E8189" x="58" y="36" width="2" height="3"></rect>
+            <rect id="Rectangle" fill="#4E5E67" x="49" y="39" width="1" height="14"></rect>
+            <rect id="Rectangle" fill="#302C3B" x="18" y="56" width="16" height="4"></rect>
+            <circle id="Oval" fill="#302C3B" cx="14" cy="22" r="14"></circle>
+            <circle id="Oval" fill="#E6EBEF" cx="14" cy="22" r="11"></circle>
+            <circle id="Oval" fill="#302C3B" cx="42" cy="18" r="18"></circle>
+            <path d="M56,18 C56,25.729 49.729,32 42,32 C34.27,32 28,25.729 28,18 C28,10.271 34.27,4 42,4 C49.729,4 56,10.271 56,18 Z" id="Path" fill="#E6EBEF"></path>
+            <rect id="Rectangle" fill="#302C3B" x="40.5" y="2" width="3" height="32"></rect>
+            <rect id="Rectangle" fill="#302C3B" x="26" y="16.5" width="32" height="3"></rect>
+            <rect id="Rectangle" fill="#302C3B" transform="translate(41.999246, 17.999239) rotate(45.000000) translate(-41.999246, -17.999239) " x="40.4992608" y="1.99989279" width="2.99997123" height="31.9986931"></rect>
+            <rect id="Rectangle" fill="#302C3B" transform="translate(41.999861, 18.000146) rotate(135.000000) translate(-41.999861, -18.000146) " x="40.499875" y="2.00079989" width="2.99997123" height="31.9986931"></rect>
+            <rect id="Rectangle" fill="#302C3B" x="12.5" y="9" width="3" height="26"></rect>
+            <rect id="Rectangle" fill="#302C3B" x="1" y="20.5" width="26" height="3"></rect>
+            <rect id="Rectangle" fill="#302C3B" transform="translate(14.000100, 21.999700) rotate(45.000000) translate(-14.000100, -21.999700) " x="12.5001144" y="9.53581953" width="2.99997123" height="24.9277609"></rect>
+            <rect id="Rectangle" fill="#302C3B" transform="translate(14.000300, 22.000100) rotate(135.000000) translate(-14.000300, -22.000100) " x="12.5003144" y="9.53621953" width="2.99997123" height="24.9277609"></rect>
+            <circle id="Oval" fill="#302C3B" cx="42" cy="18" r="6"></circle>
+            <circle id="Oval" fill="#302C3B" cx="14" cy="22" r="6"></circle>
+            <circle id="Oval" fill="#4E5E67" cx="14" cy="22" r="5"></circle>
+            <circle id="Oval" fill="#4E5E67" cx="42" cy="18" r="5"></circle>
+            <rect id="Rectangle" fill="#4E5E67" x="14" y="30" width="28" height="6"></rect>
+            <rect id="Rectangle" fill="#302C3B" x="15" y="31" width="26" height="5"></rect>
+            <polygon id="Path" fill="#99A8AE" points="18 30 22 30 16 22 12 22"></polygon>
+            <polygon id="Path" fill="#99A8AE" points="32 30 36 30 44 18 40 18"></polygon>
+            <path d="M12,22 C12,24.666 16,24.666 16,22 C16,19.333 12,19.333 12,22 Z" id="Path" fill="#BEC3CF"></path>
+            <path d="M40,18 C40,20.666 44,20.666 44,18 C44,15.333 40,15.333 40,18 Z" id="Path" fill="#BEC3CF"></path>
+            <rect id="Rectangle" fill="#4E5E67" x="25" y="32" width="14" height="2"></rect>
+            <rect id="Rectangle" fill="#99A8AE" x="25" y="32" width="14" height="1"></rect>
+        </g>
+    </g>
+</svg>
